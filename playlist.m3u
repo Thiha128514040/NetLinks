@@ -94,6 +94,12 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkO7cYsJhPL93HzpAF3e3zAudcTe6iEjMYYJ
 #EXTINF:-1,***24 Hours Sport***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWcR2uUpruI9oLtMsBNLjG3O
 
+#EXTINF:-1,Starsport_Select 1
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extension=ts&play_token=T3bl3kTNnH
+
+#EXTINF:-1,Starsport_Select 2
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
+
 #EXTINF:-1,BEIN SPORT 1
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
 
