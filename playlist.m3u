@@ -235,6 +235,27 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2506/index.m3u8
 #EXTINF:-1,BT SPORT 3 FHD UK
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6564/index.m3u8
 
+#EXTINF:-1,ESPN HD
+http://168.197.196.98:82/stream/channelid/1093734737?profile=pass
+
+#EXTINF:-1,ESPN 2HD
+http://168.197.196.98:82/stream/channelid/639969912?profile=pass
+
+#EXTINF:-1,ESPN 3HD
+http://168.197.196.98:82/stream/channelid/1345121902?profile=pass
+
+#EXTINF:-1,ESPN 4HD
+http://168.197.196.98:82/stream/channelid/336130359?profile=pass
+
+#EXTINF:-1,ESPN Premium HD
+http://168.197.196.98:82/stream/channelid/382818403?profile=pass
+
+#EXTINF:-1,TNT Sport HD
+http://168.197.196.98:82/stream/channelid/864124803?profile=pass
+
+#EXTINF:-1,Tyc Sport HD
+http://168.197.196.98:82/stream/channelid/191278502?profile=pass
+
 #EXTINF:-1,FISH TV
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAO-sclR75SCoHCRNmOg
 
