@@ -64,6 +64,12 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMBtVOUidvlzvHp
 #EXTINF:-1,PlayList_Date,Time,Channel
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWfeHENB4LnUIYYN4pyVQnG1
 
+#EXTINF:-1,SKY Sport Football
+http://ottshow.net:80/xplanet739fdh/n5nRtOasjk0askd0a/72625
+
+#EXTINF:-1,TEN Sport
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1,MAX JOGO 02
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj9XUM1uxeQI2PCs1S2lV3hq
 
@@ -183,6 +189,51 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNsxAxl5dBkoWry
 
 #EXTINF:-1,TNT_Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvksHpMNWbmqqkPcFVwtislFY85zJsHtDwXbfT-NCC08-
+
+#EXTINF:-1,beIN Sports 1 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6123/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6124/index.m3u8
+
+#EXTINF:-1,beIN Sports 4 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6125/index.m3u8
+
+#EXTINF:-1,beIN Sports 5 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6126/index.m3u8
+
+#EXTINF:-1,beIN Sports 6 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6127/index.m3u8
+
+#EXTINF:-1,beIN Sports 7 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6128/index.m3u8
+
+#EXTINF:-1,beIN Sports 8 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6129/index.m3u8
+
+#EXTINF:-1,beIN Sports 1 Premium HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6131/index.m3u8
+
+#EXTINF:-1,beIN Sports 1 HD EN
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6132/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 HD EN
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6133/index.m3u8
+
+#EXTINF:-1,BT SPORT 1 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6566/index.m3u8
+
+#EXTINF:-1,BT Sport 1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2505/index.m3u8
+
+#EXTINF:-1,BT SPORT 2 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6565/index.m3u8
+
+#EXTINF:-1,BT Sport 2 UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2506/index.m3u8
+
+#EXTINF:-1,BT SPORT 3 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6564/index.m3u8
 
 #EXTINF:-1,FISH TV
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAO-sclR75SCoHCRNmOg
