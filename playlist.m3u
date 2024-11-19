@@ -1,6 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,MK Home
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:M3U8
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:15
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="/file.key"
+
+#EXTINF:-1,***MK Home IPTV***
+http://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1,***Myanmar_Music***
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
 #EXTINF:-1,Channelk
@@ -12,99 +23,155 @@ https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1,MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
-#EXTINF:-1,MNTV Movie
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+#EXTINF:-1,MK_HI SPORT
+http://49.0.64.96:8007/HiSports
 
-#EXTINF:-1,MVM
-https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1,***Cartoon Network***
+http://vo01.mohdtv.com:8880/ALLChannels681def0087c7/81216685/31342
+
+#EXTINF:-1,BEN 10 Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/678
+
+#EXTINF:-1,Baby TV Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/767
+
+#EXTINF:-1,FOSTER Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/674
+
+#EXTINF:-1,ONIBUS Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/675
+
+#EXTINF:-1,ALADDIN Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/676
+
+#EXTINF:-1,BATMAN Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/677
+
+#EXTINF:-1,BOB Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/679
+
+#EXTINF:-1,CORTOONITO
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
+
+#EXTINF:-1,ZODIACO Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/680
+
+#EXTINF:-1,FEC Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1169
+
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1,MK_CARTOONITO
+http://202.62.56.28:8080/nl.m3u8?id=1012
+
+#EXTINF:-1,MK_CARTOON NETWORK
+http://202.62.56.28:8080/nl.m3u8?id=1013
+
+#EXTINF:-1,MK_ANIMAX
+http://202.62.56.28:8080/nl.m3u8?id=1008
+
+#EXTINF:-1,MK_WWE
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
 
 ===================================================
 
-#EXTINF:-1,CARTOON CHANNEL
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNR0vV2umaRR3U7r56lttMp
+#EXTINF:-1,***INTER_MOVIE***
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/225
 
-#EXTINF:-1,BABY TV
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPhQSSgLK6VZgFJwn9tLuXg
+#EXTINF:-1,AMC Movie
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
 
-#EXTINF:-1,CARTOON NETWORK
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHM5MFOao1ReWWnQBXsZlsa-
+#EXTINF:-1,ARTE Movie
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/232
 
-#EXTINF:-1,CARTOONITO
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOKnYANjffoLxdN4tq4_bur
+#EXTINF:-1,AXN Movie 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233
 
-#EXTINF:-1,KIDS
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN4TEZH3oFk2sCpoI_tTTNI
+#EXTINF:-1,CINEMAX Movie 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/239
 
-#EXTINF:-1,DISNEY 
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPHsUaim5OUy68UVyCCwXqB
+#EXTINF:-1,CINEMAX Movie HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
 
-#EXTINF:-1,GLOOB
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHP-21tY926KWcyUtY6Ct5KJ
+#EXTINF:-1,Matrivumi tv
+http://103.101.197.10:8989/M_Movies/index.m3u8
 
-#EXTINF:-1,GLOOBINHO
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOx-aYq9jbjsSOMrlnKbCVt
+#EXTINF:-1,Sananda TV
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,NICK JR
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOuepJflLXyrIlzunurP3tp
+#EXTINF:-1,MK_WATCHNOW
+http://202.62.56.28:8080/nl.m3u8?id=1140
 
-#EXTINF:-1,NICKELODEON
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMlAp5UCtVtvQmMrxsN4ZG6
+#EXTINF:-1,MK_HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-1,TOON CAST
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfsvi6mVpjt
+#EXTINF:-1,MK_JOSS
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
-#EXTINF:-1,TV RA TIM BUM
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO3Wlxh2GWcQp1Ln-8WKwCQ
+#EXTINF:-1,India Movie
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:-1,ZOOMOO KIDS
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMBtVOUidvlzvHpJNI8J_4L
+#EXTINF:-1,INDIA_Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+==================================================
+
+#EXTINF:-1,***DISCOVERY CHANNEL***
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/68
+
+#EXTINF:-1,ANIMAL PLANET 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/61
+
+#EXTINF:-1,DISCOVERY H&H 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/67
+
+#EXTINF:-1,DISCOVERY H&H HDR+
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1021
+
+#EXTINF:-1,DISCOVERY ID 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/69
+
+#EXTINF:-1,DISCOVERY ID HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/70
+
+#EXTINF:-1,DISCOVERY English
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1,DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
 ===================================================
 
-#EXTINF:-1,PlayList_Date,Time,Channel
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWfeHENB4LnUIYYN4pyVQnG1
+#EXTINF:-1,***FOOTBALL_SPORT***
+http://x.v-iptv.com:25443/live/543304/1GGYRY5ZA8/9340.ts
 
-#EXTINF:-1,SKY Sport Football
-http://ottshow.net:80/xplanet739fdh/n5nRtOasjk0askd0a/72625
+#EXTINF:-1,BEIN SPORT 2 HD
+http://x.v-iptv.com:25443/live/543304/1GGYRY5ZA8/9339.ts
 
-#EXTINF:-1,TEN Sport
+#EXTINF:-1,BEIN SPORT 3 HD
+http://x.v-iptv.com:25443/live/543304/1GGYRY5ZA8/9341.ts
+
+#EXTINF:-1,Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1,MAX JOGO 02
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj9XUM1uxeQI2PCs1S2lV3hq
+#EXTINF:-1,astro Grandstand
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 
-#EXTINF:-1,MAX JOGO 03
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-O5Cjz5kesMQrRlLq8EpLZ
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
-#EXTINF:-1,MAX JOGO 04
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj8Bc4K2rBueDGD9a7BnodDS
+#EXTINF:-1,MK_TRUE 2 PREMIER FOOTBALL
+http://202.62.56.28:8080/nl.m3u8?id=1065
 
-#EXTINF:-1,NOSSO FUTEBOL 01
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhQpc5o8p-6kWzeLt4u53D4KbviNQ01RL3NmlhvIdHbw
+#EXTINF:-1,MK_TRUE7 PREMIER FOOTBALL
+http://202.62.56.28:8080/nl.m3u8?id=1061
 
-#EXTINF:-1,NOSSO FUTEBOL 02
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhQpc5o8p-6kWzeLt4u53D7wCoyKK-h_3VBxEtfg4SzQ
+#EXTINF:-1,MK Live Now 1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
 
-#EXTINF:-1,NOSSO FUTEBOL 03
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvjLGT8L81Go8NfKukLUgi4TrLmRbueloh_im9fali1y6
-
-#EXTINF:-1,NOSSO FUTEBOL 04
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoU2rlDUcbfEI_Bv_RbBmyr0jnhujS7b2fl9jwZTkS95
-
-#EXTINF:-1,ONE FOOTBALL 01
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhQpc5o8p-6kWzeLt4u53D4SXFf8LZeQtkOZHKu2VN3W
-
-#EXTINF:-1,ONE FOOTBALL 02
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkO7cYsJhPL93HzpAF3e3zAudcTe6iEjMYYJPPSUZ54p
-
-#EXTINF:-1,***24 Hours Sport***
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWcR2uUpruI9oLtMsBNLjG3O
-
-#EXTINF:-1,Starsport_Select 1
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extension=ts&play_token=T3bl3kTNnH
-
-#EXTINF:-1,Starsport_Select 2
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
+#EXTINF:-1,MK Live Now 2
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
 
 #EXTINF:-1,BEIN SPORT 1
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
@@ -127,320 +194,666 @@ http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/906
 #EXTINF:-1,BEIN SPORT 7
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/907
 
-#EXTINF:-1,COMBATE  Sport
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
-
-#EXTINF:-1,UFC  Sport
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJWm8elUBH
-
-#EXTINF:-1,BAND SPORT
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSQ5YlElFSqxyWAoQ4qbSCTK
-
-#EXTINF:-1,CANAL OFF
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSRKqJYcmRa8-Gv7avje3LwT
-
-#EXTINF:-1,ESPN 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHObRpPW49CiK4fZFlnQnJGR
-
-#EXTINF:-1,ESPN 2
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOmX3FuRVIXODUHnpngTdRD
-
-#EXTINF:-1,ESPN 3
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN-vd2imLeM9kC9-hwv3Iva
-
-#EXTINF:-1,ESPN 4
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOlEwRWB7EDwp74EMbcQQ_K
-
-#EXTINF:-1,ESPN 5
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMmcCZYJJgZ7JVR9V_7wlkc
-
-#EXTINF:-1,ESPN 6
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNsxAxl5dBkoWryK0qbNDMg
-
-#EXTINF:-1,SPORTV 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNxZDOl9wMCfRPpXLcQXwin
-
-#EXTINF:-1,SPORTV 2
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNL7YXIICCrAEKS7_QazIeW
-
-#EXTINF:-1,SPORTV 3
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN6hefaWOWTei7Khz14cVYo
-
-#EXTINF:-1,PREMIERE 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNeL5_NwzYfgQACYPsNf3SL
-
 #EXTINF:-1,ESPN_Sport 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHObRpPW49CiK4fZFlnQnJGR
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131
 
 #EXTINF:-1,ESPN_Sport 2
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOmX3FuRVIXODUHnpngTdRD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
 
 #EXTINF:-1,ESPN_Sport 3
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN-vd2imLeM9kC9-hwv3Iva
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
 
 #EXTINF:-1,ESPN_Sport 4
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOlEwRWB7EDwp74EMbcQQ_K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143
 
 #EXTINF:-1,ESPN_Sport 5
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMmcCZYJJgZ7JVR9V_7wlkc
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
 
 #EXTINF:-1,ESPN_Sport 6
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNsxAxl5dBkoWryK0qbNDMg
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
-#EXTINF:-1,TNT_Sport
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvksHpMNWbmqqkPcFVwtislFY85zJsHtDwXbfT-NCC08-
+#EXTINF:-1,ESPN
+http://hzcdn.vood.top:80/hls/309458_.m3u8
 
-#EXTINF:-1,beIN Sports 1 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6123/index.m3u8
+#EXTINF:-1,ESPN 4
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143.m3u8
 
-#EXTINF:-1,beIN Sports 3 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6124/index.m3u8
+#EXTINF:-1,ESPN 6
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
 
-#EXTINF:-1,beIN Sports 4 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6125/index.m3u8
+#EXTINF:-1,SSC 1
+http://ktv.im:8080/live/000111755/Aa1755/49677.m3u8
 
-#EXTINF:-1,beIN Sports 5 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6126/index.m3u8
+#EXTINF:-1,SSC 5
+http://ktv.im:8080/live/000111755/Aa1755/49681.m3u8
 
-#EXTINF:-1,beIN Sports 6 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6127/index.m3u8
+#EXTINF:-1,BeIN Sports 1 DIRECT
+http://ktv.im:8080/live/000111755/Aa1755/49607.m3u8
 
-#EXTINF:-1,beIN Sports 7 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6128/index.m3u8
+#EXTINF:-1,BeinSport A
+http://37.27.111.214:8080/live/13/hls.m3u8
 
-#EXTINF:-1,beIN Sports 8 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6129/index.m3u8
+#EXTINF:-1,BeinSport B
+http://37.27.111.214:8080/live/14/hls.m3u8
 
-#EXTINF:-1,beIN Sports 1 Premium HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6131/index.m3u8
+#EXTINF:-1,BeinSport C
+http://37.27.111.214:8080/live/15/hls.m3u8
 
-#EXTINF:-1,beIN Sports 1 HD EN
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6132/index.m3u8
+#EXTINF:-1,M+ Sport
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1,beIN Sports 2 HD EN
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6133/index.m3u8
+#EXTINF:-1,M+ Sport
+https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
 
-#EXTINF:-1,BT SPORT 1 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6566/index.m3u8
+#EXTINF:-1,NOW.PL.SPORTS
+http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
 
-#EXTINF:-1,BT Sport 1 UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2505/index.m3u8
+#EXTINF:-1,Hub Premier 1 - no Vpn
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
 
-#EXTINF:-1,BT SPORT 2 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6565/index.m3u8
+#EXTINF:-1,Hub Premier 2 - no Vpn
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
 
-#EXTINF:-1,BT Sport 2 UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2506/index.m3u8
+#EXTINF:-1,Hub Premier 3 - no Vpn
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
 
-#EXTINF:-1,BT SPORT 3 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6564/index.m3u8
+#EXTINF:-1,Hub Premier 4 - no Vpn
+http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
 
-#EXTINF:-1,ESPN HD
-http://168.197.196.98:82/stream/channelid/1093734737?profile=pass
-
-#EXTINF:-1,ESPN 2HD
-http://168.197.196.98:82/stream/channelid/639969912?profile=pass
-
-#EXTINF:-1,ESPN 3HD
-http://168.197.196.98:82/stream/channelid/1345121902?profile=pass
-
-#EXTINF:-1,ESPN 4HD
-http://168.197.196.98:82/stream/channelid/336130359?profile=pass
-
-#EXTINF:-1,ESPN Premium HD
-http://168.197.196.98:82/stream/channelid/382818403?profile=pass
-
-#EXTINF:-1,TNT Sport HD
-http://168.197.196.98:82/stream/channelid/864124803?profile=pass
-
-#EXTINF:-1,Tyc Sport HD
-http://168.197.196.98:82/stream/channelid/191278502?profile=pass
-
-#EXTINF:-1,FISH TV
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAO-sclR75SCoHCRNmOg
-
-#EXTINF:-1,ANIMAL PLANET
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHONm9A9p2qHdS3w5e65V7uL
-
-#EXTINF:-1,ARTE 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMoE0EIg-ctPE253-eC_izy
-
-#EXTINF:-1,CURTA 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHM1lhj-THlxNOiYZRvPgSJm
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNES5KEAzUrow0hf0R1hxXC
-
-#EXTINF:-1,DISCOVERY HOME&HEALTH
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPUwUEfqrhI9LwDA3dADRH8
-
-#EXTINF:-1,DISCOVERY KID
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN4TEZH3oFk2sCpoI_tTTNI
-
-#EXTINF:-1,DISCOVERY SCIENCE
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMx5E0vKAl9mhTnLaRxG_rD
-
-#EXTINF:-1,DISCOVERY THEATER
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOCSGGYheFBx0J1Hk2M6XkF
-
-#EXTINF:-1,DISCOVERY  TURBO
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPlxxgnijtPyKioKA_e7BgP
-
-#EXTINF:-1,DISCOVERY  WORLD
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMjwzygU9HivX628avM9TsF
-
-#EXTINF:-1,INVESTIGACAO DISCOVERY 
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPSySAPsFvjd4g_6zlPoVNj
-
-#EXTINF:-1,HGTV
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPASEOqy-5_6wfUjg6zLm-D
-
-#EXTINF:-1,TLC
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPigtMsIgda8Yr_DzLycxAY
-
-#EXTINF:-1,HISTORY 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMZ9PnBAc0IPUb9dw2sQ_Ks
-
-#EXTINF:-1,HISTORY 2
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOOcLqC8sdBBTb0NgiDauDi
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNllCSv4lt4ZEZwIL5m1TzZ
+#EXTINF:-1,Hub Premier 5 - no Vpn
+http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
 
 ===================================================
 
-#EXTINF:-1,***Inter Movie***
-http://lnc-cinevault-80s.tubi.video/1200.m3u8
+#EXTINF:-1,MK_Test_Stream 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 
-#EXTINF:-1,EVTV action movie
-http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/1011
+#EXTINF:-1,MK_Test_Stream 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425329.ts
 
-#EXTINF:-1,A&E action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNNEoW99PZa80BhGA3xp5V1
+#EXTINF:-1,MK_Test_Stream 3
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425328.ts
 
-#EXTINF:-1,AMC action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMyI0ga9HDb1286SXnflDEQ
+#EXTINF:-1,MK_Test_Stream 4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
 
-#EXTINF:-1,AXN action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPpSoCSXefX1LwjfKIL9j2C
+#EXTINF:-1,MK_Test_Stream 5
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
 
-#EXTINF:-1,CINEMAX action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMEz-ktE4zq_jP4aowL4Oku
+#EXTINF:-1,MK_Test_Stream 6
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
 
-#EXTINF:-1,FX action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPd8ZxhL6ic1BTsKWWAenC6
+#EXTINF:-1,MK_Test_Stream 7
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
 
-#EXTINF:-1,MAGAPIX action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvqXPofiLa0jp87RG3vuHnzen3Fa1oezpwU9zMjpiQDVt
+#EXTINF:-1,MK_Test_Stream 8
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
 
-#EXTINF:-1,SONY CHANNEL
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOce3ZxROHzbhhZLonAXSJo
+#EXTINF:-1,MK_Test_Stream 9
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
 
-#EXTINF:-1,SONY MOVIE
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvq4i4gRxSsVFoCl6P6qIZNJ-aY7gb9GmtU554K95RtEh
+#EXTINF:-1,MK_Test_Stream 10
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
 
-#EXTINF:-1,SPACE action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMTIq59hnLzrdnx_eftCD4S
+#EXTINF:-1,MK_Test_Stream 11
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 
-#EXTINF:-1,STAR CHANNEL movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNCrt4gY_Pd0OxZUhIEPvEh
+#EXTINF:-1,MK_BEIN 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
 
-#EXTINF:-1,TCM action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMdMoRvBsQ2QWKENA7kLc1V
+#EXTINF:-1,MK_BEIN 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
 
-#EXTINF:-1,TNT movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN58E2yP_YilTCbva6jviOL
+#EXTINF:-1,MK_BEIN 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
 
-#EXTINF:-1,TNT SERIES movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNVQekQ2OT14OFqJdb4jBGh
+#EXTINF:-1,MK_BEIN 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
 
-#EXTINF:-1,USA_NETWORK movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPyFISyibOuWTvVM2COueUH
+#EXTINF:-1,MK_BEIN 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
 
-#EXTINF:-1,WARNER CHANNEL movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPGaUpwkFknX5qUy8Ga0LJ3
+#EXTINF:-1,MK_BEIN 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
 
-#EXTINF:-1,INDIA_Siripoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1,MK_BEIN 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
 
-#EXTINF:-1,INDIA_Isaiaruvi
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1,MK_BEIN 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
 
-#EXTINF:-1,INDIA_Murasu Tv
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1,MK_BEIN 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
 
-#EXTINF:-1,TELECINE ACTION
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPfqm-8yXJ6HRceGK_H0Fwa
+#EXTINF:-1,MK_BEIN EXTRA 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
 
-#EXTINF:-1,TELECINE CULT
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMf1c-F8vJLI_G_RH2lp-4A
+#EXTINF:-1,HK Now Premier Sports 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 
-#EXTINF:-1,TELECINE FUN
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMgAT4ADEfoCeAMdh54s4HH
+#EXTINF:-1,HK Now Premier Sports 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
 
-#EXTINF:-1,TELECINE PIPOCA
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO3zz4_7yiwrbRsHZsFvE2E
+#EXTINF:-1,HK Now Premier Sports 3
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425334.ts
 
-#EXTINF:-1,TELECINE PREMIUM
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMEmvrMTehcA5bNBAfIKPkw
+#EXTINF:-1,HK Now Premier Sports 4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
 
-#EXTINF:-1,TELECINE TOUCH
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPkVSdh4jkilyOvl2_wamFq
+#EXTINF:-1,HK Now Premier Sports 5
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425336.ts
 
-#EXTINF:-1,HBO 1 action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAPELWFC-t2XkSeWHboV
+#EXTINF:-1,HK Now Premier Sports 6
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425337.ts
 
-#EXTINF:-1,HBO 2 action movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMs4F7RiCc386e6VcEWwl1-
+#EXTINF:-1,HK Now Premier Sports 7
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425331.ts
 
-#EXTINF:-1,HBO FAMILY movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPKq7kONS9NXtsqsrC5sLai
+#EXTINF:-1,HK Now Premier Sports 8
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425330.ts
 
-#EXTINF:-1,HBO MUNDI movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNIy5XDW2knnX-innJx1hmG
+#EXTINF:-1,MK_HK Now Sports 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425329.ts
 
-#EXTINF:-1,HBO PLUS movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMzQ6MpSKdJ3rkdFfLaJ8Sf
+#EXTINF:-1,MK_HK Now Sports 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425328.ts
 
-#EXTINF:-1,HBO POP
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMsXQS7tclIggm-RLIiYCL9
+#EXTINF:-1,MK_HK Now Sports 3
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
 
-#EXTINF:-1,HBO SIGNATURE movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMIoPQzf9Evq4hbyIn9an6-
+#EXTINF:-1,MK_HK Now Sports 4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
 
-#EXTINF:-1,HBO XTREME movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO8o74O2NWbLqAcvks-HVbC
+#EXTINF:-1,MK_HK Now Sports 5
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425325.ts
 
-#EXTINF:-1,RUNTIME ACAO movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRFUECiQk6yNobK6tPF-IfUV
-
-#EXTINF:-1,RUNTIME CINE movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRF-RKzEKBd22RpJSPznRf_L
-
-#EXTINF:-1,RUNTIME COMEDIA movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvmVsmsdNL5319Khp5i0DIrZoWlwk9jHPu1cBwA8lBDDI
-
-#EXTINF:-1,RUNTIME CRIME movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhydexKsYIVt8dGGqUSLDhe2t4L8k5HkqDJb4s3HYFxa
-
-#EXTINF:-1,RUNTIME FAMILIA movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRGWR1oVw6xNSqLpuKktoOTh
-
-#EXTINF:-1,RUNTIME ROMANCE movie
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvmVsmsdNL5319Khp5i0DIrYBZ58yEqw0NPQTZHWwdzzW
-
-#EXTINF:-1,RUNTIME TVE FLIMES
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhydexKsYIVt8dGGqUSLDhftVcedrykwsIjn4PB_0N5E
-
-#EXTINF:-1,FOOD NETWORK
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO1A90NxqdJHv4fjmcXTLBe
-
-#EXTINF:-1,SABOR & ARTE
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMciw0M55am93kOmTBgkO4a
+#EXTINF:-1,MK_HK Now Sports 6
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
 
 ==================================================
 
-#EXTINF:-1,TheRoundup
+#EXTINF:-1,Sony Ten 2
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
+
+#EXTINF:-1,TNT SPORTS 1
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
+
+#EXTINF:-1,TNT SPORTS 2
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
+
+#EXTINF:-1,TNT SPORTS 3
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
+
+#EXTINF:-1,TNT SPORTS 4
+http://shacktv.com:8080/live/803comb/4159355/21818.m3u8
+
+#EXTINF:-1,Real SPO Tv Sports
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1,Real SPO Tv Sports 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1,8XM HD
+http://119.152.240.15:8001/play/a00i/index.m3u8
+
+#EXTINF:-1,PTV SPORTS
+http://119.152.240.15:8001/play/a01a/index.m3u8
+
+TV Network:
+#EXTM3U
+#EXTINF:-1 group-title="-",&pictures HD -Rs 19
+http://39.42.214.73:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",&prive HD-Rs 6
+http://39.42.214.73:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",Animal PlanetHD-Rs5
+http://39.42.214.73:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY TV18 HD-Rs7
+http://39.42.214.73:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19
+http://39.42.214.73:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",STAR BHARAT HD-Rs 19
+http://39.42.214.73:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",Sony Ten 2 HD-Rs19
+http://39.42.214.73:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",SonyBBCearthHD-Rs19
+http://39.42.214.73:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",Star GOLD HD -Rs 19
+http://39.42.214.73:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",StarGold SelHD-Rs8
+http://39.42.214.73:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",StarSportSL1HD-Rs19
+http://39.42.214.73:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",StarSportSL2HD-Rs10
+http://39.42.214.73:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="-",ZEE CINEMA HD-Rs 19
+http://39.42.214.73:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",colorsInfintyHD-Rs9
+http://39.42.214.73:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",nick HD+- Rs 10
+http://39.42.214.73:8000/play/a00h/index.m3u8
+
+SPORT TV1
+
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+
+SPORT TV2
+
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+
+
+Sport tv 6
+
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
+
+Sport tv 3
+
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+
+Sport tv 4
+
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+
+Sport tv 5
+
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+
+কৃষ্ণ:
+BeiN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+SuperSport 6 FHD VIP AL
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19441
+
+TV Network:
+BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+DIRECT SPORT 🇦🇷
+http://38.183.183.249:8000/play/a0gl/index.m3u8
+
+ESPN VIVO 🇦🇷
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+
+TV Network:
+ESPN VIVO 🇦🇷
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+
+Stream Op:
+Independent TV
+http://bapatv.live:8080/independent/index.m3u8
+
+Masranga TV
+http://103.175.242.10:8080/maasranga/index.m3u8
+
+Movie Bangla
+http://bapatv.live:8080/moviebangla/index.m3u8
+
+Sony Aath
+http://bapatv.live:8080/sonyaath/index.m3u8
+
+Colors HD
+http://bapatv.live:8080/colorshd/index.m3u8
+
+Discovery
+http://bapatv.live:8080/discovery/index.m3u8
+
+Zee Cinema
+http://bapatv.live:8080/zeecinema/index.m3u8
+
+Star Plus
+http://bapatv.live:8080/starplus/index.m3u8
+
+Channel i
+http://bapatv.live:8080/channeli/index.m3u8
+
+Bein Sports 1
+http://bapatv.live:8080/hls/beinsp-1/index.m3u8
+
+Cartoon Network
+http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+
+9XM
+http://103.175.242.10:8080/9xm/index.m3u8
+
+& Pictures
+http://bapatv.live:8080/andpicture/index.m3u8
+
+Asian TV
+http://103.175.242.10:8080/hls/asian/index.m3u8
+
+ATN Bangla
+http://bapatv.live:8080/atnbangla/index.m3u8
+
+ATN News
+http://bapatv.live:8080/atnnews/index.m3u8
+
+
+Bangla Vision
+http://103.175.242.10:8080/banglavision/index.m3u8
+
+Bijoy TV
+http://103.175.242.10:8080/hls/bijoy/index.m3u8
+
+Boishakhi TV
+http://bapatv.live:8080/hls/boishakhi/index.m3u8
+
+BTV
+http://103.175.242.10:8080/hls/btv/index.m3u8
+
+Channel 24
+http://bapatv.live:8080/hls/channel24/index.m3u8
+
+DBC News
+http://bapatv.live:8080/dbc/index.m3u8
+
+Deepto TV
+http://103.175.242.10:8080/deepto/index.m3u8
+
+Discovery Kids
+http://103.175.242.10:8080/discoverkids/index.m3u8
+
+Dubai TV
+http://bapatv.live:8080/ch-dubai/index.m3u8
+
+Ekattor TV
+http://bapatv.live:8080/ekattor/index.m3u8
+
+Fox Cricket
+http://bapatv.live:8080/foxcricekt/index.m3u8
+
+Gaan Bangla
+http://103.175.242.10:8080/gaanbangla/index.m3u8
+
+Global TV
+http://103.175.242.10:8080/hls/globaltv/index.m3u8
+
+GTV
+http://bapatv.live:8080/gtv/index.m3u8
+
+GTV 2
+http://bapatv.live:8080/gtv2/index.m3u8
+
+Jalsha Movies
+http://bapatv.live:8080/jalshamovies/index.m3u8
+
+Jamuna TV
+http://103.175.242.10:8080/jamuna2/index.m3u8
+
+Kids Creation
+http://103.175.242.10:8080/kidscreation/index.m3u8
+
+Live Sports
+http://bapatv.live:8080/Live-sports/index.m3u8
+
+Movies Now
+http://103.175.242.10:8080/moviesnow/index.m3u8
+
+Nat Geo
+http://103.175.242.10:8080/natgeo/index.m3u8
+
+NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+
+
+RTV
+http://103.175.242.10:8080/hls/rtv/index.m3u8
+
+S Football
+http://bapatv.live:8080/sfootball/index.m3u8
+
+SA TV
+http://103.175.242.10:8080/hls/satv/index.m3u8
+
+S Bangla
+http://103.175.242.10:8080/sbangla/index.m3u8
+
+Sony Entertainment
+http://103.175.242.10:8080/sonyent10/index.m3u8
+
+Sony Pix
+http://103.175.242.10:8080/sonypix/index.m3u8
+
+Sony Ten 1
+http://bapatv.live:8080/sonyten1/index.m3u8
+
+Sony Ten 2
+http://bapatv.live:8080/sonyten2/index.m3u8
+
+Sony Ten 5
+http://bapatv.live:8080/sonyten5/index.m3u8
+
+Sports 18
+http://bapatv.live:8080/sports18/index.m3u8
+
+Star Gold Thrill
+http://103.175.242.10:8080/stargoldthrill/index.m3u8
+
+
+Star Jalsha
+http://103.175.242.10:8080/starjalsha/index.m3u8
+
+Star Movies
+http://103.175.242.10:8080/starmovies/index.m3u8
+
+Star Sports 2
+http://bapatv.live:8080/starsports2/index.m3u8
+
+Star Sports 1
+http://bapatv.live:8080/starsports2/index.m3u8
+
+T Sports 1
+http://bapatv.live:8080/tsports1/index.m3u8
+
+T Sports 2
+http://bapatv.live:8080/tsports2/index.m3u8
+
+T Sports 4
+http://bapatv.live:8080/tsports4/index.m3u8
+
+Zee Bangla
+http://bapatv.live:8080/zeebangla/index.m3u8
+
+Zee Bangla Cinema
+http://103.175.242.10:8080/zee-bncinema/index.m3u8
+
+Full Playlist :-
+https://raw.githubusercontent.com/stream-op/live/refs/heads/main/bapatv.m3u
+
+কৃষ্ণ:
+http://103.110.110.11:8081/live/cartoon/playlist.m3u8
+
+NET GEO
+http://103.175.242.10:8080/natgeo/index.m3u8
+
+Star Jalsha(Yupp TV)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+Colors Bangla(Yupp TV)
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+Zee Bangla (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+COLORS BANGLA HD
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+Animal Planet
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
+EKUSHEY TV
+https://ekusheyserver.com/etvlivesn.m3u8
+Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+Animal Planet HD
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+Discovery HD Hindi
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+Discovery Science
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+Discovery Turbo
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+
+কৃষ্ণ:
+A SPORTS FHD
+http://195.26.87.217/live.ts?channelId=12217&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Astro Cricket
+http://195.26.87.217/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Astro Cricket.
+http://195.26.87.217/live.ts?channelId=33317&uid=3453&deviceMac=00:1A:79:11:10:28
+ASTRO SUPERSPORT 1 FHD
+http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:11:10:28
+ASTRO SUPERSPORT 2 FHD
+http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:11:10:28
+ASTRO SUPERSPORT 3 FHD
+http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:11:10:28
+ASTRO SUPERSPORT 4 FHD
+http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:11:10:28
+BEIN SPORTS 1 ENGLISH FHD
+http://195.26.87.217/live.ts?channelId=102481&uid=3453&deviceMac=00:1A:79:11:10:28
+BEIN Sports 2 English FHD
+http://195.26.87.217/live.ts?channelId=125427&uid=3453&deviceMac=00:1A:79:11:10:28
+BEIN Sports 3 English FHD
+http://195.26.87.217/live.ts?channelId=125428&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Fox Sports 501 Cricket FHD
+http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Jio Cricket English FHD
+http://195.26.87.217/live.ts?channelId=294&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Star Sports 1 FHD
+http://195.26.87.217/live.ts?channelId=293&uid=3453&deviceMac=00:1A:79:11:10:28
+
+,Star Sports 3 FHD
+http://195.26.87.217/live.ts?channelId=39098&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Starzplay CricLife 1 FHD
+http://195.26.87.217/live.ts?channelId=125421&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Starzplay CricLife 2 FHD
+http://195.26.87.217/live.ts?channelId=125422&uid=3453&deviceMac=00:1A:79:11:10:28
+Starzplay CricLife 3 FHD
+http://195.26.87.217/live.ts?channelId=125423&uid=3453&deviceMac=00:1A:79:11:10:28
+
+T Sports FHD
+http://195.26.87.217/live.ts?channelId=48010&uid=3453&deviceMac=00:1A:79:11:10:28
+
+WWE Sports
+http://195.26.87.217/live.ts?channelId=4244&uid=3453&deviceMac=00:1A:79:11:10:28
+
+Fox Sport 1
+http://181.78.27.128:8000/play/a062/index.m3u8
+Fox Sport 2
+http://181.78.27.128:8000/play/a006/index.m3u8
+Fox Sports 2
+http://181.78.27.128:8000/play/a03x/index.m3u8
+Fox Sports 3
+http://181.78.27.128:8000/play/a03y/index.m3u8
+
+TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+
+==================================================
+
+#EXTINF:-1,***Fight_Sport***
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+
+#EXTINF:-1,ESPN Fight
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
+
+#EXTINF:-1,ONE Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1,TEN sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1,PTV sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1,BEIN sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1,BEIN sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,8xm
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+
+#EXTINF:-1,PTV home
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+
+===================================================
+
+#EXTINF:-1,sport2
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,MK PTV sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1,MK A SPORTS 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1,MK LALEGA Live
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,TEN_Sport
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+
+#EXTINF:-1,BAND MINAS UHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/481
+
+#EXTINF:-1,BAND SPORT 4K
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/120
+
+#EXTINF:-1,BAND SPORT HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/121
+
+#EXTINF:-1,KAZE TV
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1145
+
+#EXTINF:-1,DAZN 1SD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/206
+
+#EXTINF:-1,DAZN 1HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/821
+
+#EXTINF:-1,SPORTV 2 HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172
+
+#EXTINF:-1,SPORTV 2 SD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1016
+
+#EXTINF:-1,SPORTV 3
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+
+#EXTINF:-1,bein SPORT LIVE
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,BEINSPORT PREMIER 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+===================================================
+
+#EXTINF:-1,Sky Sports Laliga
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,Sky Sports Laliga
+http://181.78.109.49:8000/play/a06r/index.m3u8
+
+#EXTINF:-1,Sky Sports Bundesliga
+http://190.92.10.66:4000/play/a006/index.m3u8
+
+===================================================
+
+#EXTINF:-1,***MM_Sub_Movie***
 http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
 
 #EXTINF:-1,ThorGodofThunder2022
@@ -1084,4 +1497,100 @@ http://www.zegomovie.com/Videos/HandsomeGuys24/index.m3u8
 #EXTINF:-1,The Purates
 http://www.zegomovie.com/Videos/ThePiratesTheLastRoyalTreasure/index.m3u8
 
-#EXTINF:-1,Comingsoon_New Movie & Sport
+#EXTINF:-1,Invasion 2024
+http://www.zegomovie.com/Videos/Invasied24/index.m3u8
+
+#EXTINF:-1,Rebel Moon
+http://www.zegomovie.com/Videos/RebelMoonParttwothescargiver24/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP1
+http://www.zegomovie.com/Videos/Narco-SaintsEp1/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP2
+http://www.zegomovie.com/Videos/Narco-SaintsEp2/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP3
+http://www.zegomovie.com/Videos/Narco-SaintsEp3/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP4
+http://www.zegomovie.com/Videos/Narco-SaintsEp4/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP5
+http://www.zegomovie.com/Videos/Narco-SaintsEp5/index.m3u8
+
+#EXTINF:-1,Narco_Saints EP6
+http://www.zegomovie.com/Videos/Narco-SaintsEp6/index.m3u8
+
+#EXTINF:-1,BeforeDawn
+http://www.zegomovie.com/Videos/BeforeDawn24/index.m3u8
+
+#EXTINF:-1,ShotCaller
+http://www.zegomovie.com/Videos/ShotCaller/index.m3u8
+
+#EXTINF:-1,MyWife Gangster Ep1
+http://www.zegomovie.com/Videos/MyWifeisaGangster/index.m3u8
+
+#EXTINF:-1,MyWife Gangster Ep2
+http://www.zegomovie.com/Videos/MyWifeisaGangster2/index.m3u8
+
+#EXTINF:-1,MyWife Gangster Ep3
+http://www.zegomovie.com/Videos/MyWifeisaGangster3/index.m3u8
+
+#EXTINF:-1,Moon Fall
+http://www.zegomovie.com/Videos/Moonfall/index.m3u8
+
+#EXTINF:-1,Alexander
+http://www.zegomovie.com/Videos/Alexander04/index.m3u8
+
+#EXTINF:-1,GetTheGringo
+http://www.zegomovie.com/Videos/GetTheGringo12/index.m3u8
+
+#EXTINF:-1,TheSuperDeep
+http://www.zegomovie.com/Videos/Superdeep21/index.m3u8
+
+#EXTINF:-1,TheExpendables 1
+http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8
+
+#EXTINF:-1,TheExpendables 2
+http://www.zegomovie.com/Videos/TheExpendables2/index.m3u8
+
+#EXTINF:-1,TheExpendables 3
+http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8
+
+#EXTINF:-1,No Mercy
+http://www.zegomovie.com/Videos/NoMercy/index.m3u8
+
+#EXTINF:-1,Day of Glory
+http://www.zegomovie.com/Videos/DaysOfGlory/index.m3u8
+
+#EXTINF:-1,Escape
+http://www.zegomovie.com/Videos/Escape2414/index.m3u8
+
+#EXTINF:-1,imaxhubble
+http://www.zegomovie.com/Videos/imaxhubble10/index.m3u8
+
+#EXTINF:-1,AfterEarth
+http://www.zegomovie.com/Videos/AfterEarth/index.m3u8
+
+#EXTINF:-1,The Tomorrow War
+http://www.zegomovie.com/Videos/TheTomorrowWar/index.m3u8
+
+#EXTINF:-1,Dominique
+http://www.zegomovie.com/Videos/Dominique24/index.m3u8
+
+#EXTINF:-1,That's MyBoy
+http://www.zegomovie.com/Videos/ThatsMyBoy/index.m3u8
+
+#EXTINF:-1,Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+
+#EXTINF:-1,The Pyramid
+http://www.zegomovie.com/Videos/ThePyramid/index.m3u8
+
+#EXTINF:-1,Inuyashiki
+http://www.zegomovie.com/Videos/Inuyashiki/index.m3u8
+
+#EXTINF:-1,VENOM THE LEST DANCE
+http://www.zegomovie.com/Videos/VenomTheLastDance24/index.m3u8
+
+#EXT-X-ENDLIST
