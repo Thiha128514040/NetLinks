@@ -8,8 +8,8 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="/file.key"
 
-#EXTINF:-1,MK_Sport premier
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/index.m3u8?googlekey=6a57a1f07da483a4d5889560ee6976febce1e426dbd0f52e0850c92949c0b51b&keyhash=6a57a1f07da483a4d5889560ee6976febce1e426dbd0f52e0850c92949c0b51b
+#EXTINF:-1,MK_MITV
+https://livedth.95tv.live/memfs/d736d518-4450-4c4b-a10f-79093448d836.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJDTTF4R2xwSFIiLCJpYXQiOjE3NDUwMDMxODh9._m07kjjGwB0XU1WNx9L7I1aRqaO5aRm9_CYaIDvngCc
 
 #EXTINF:-1,MK_Sport_1
 https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_1/index.m3u8?googlekey=ae538b9479b1bf2c44ccd41435d216d3f565b83381637c9d90f3a71e54158678&keyhash=ae538b9479b1bf2c44ccd41435d216d3f565b83381637c9d90f3a71e54158678
