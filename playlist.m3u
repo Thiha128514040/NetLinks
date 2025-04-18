@@ -8,17 +8,17 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="/file.key"
 
-#EXTINF:-1,MK_Sport_1
-https://
+#EXTINF:-1,MK_Sport premier
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League/index.m3u8?googlekey=6a57a1f07da483a4d5889560ee6976febce1e426dbd0f52e0850c92949c0b51b&keyhash=6a57a1f07da483a4d5889560ee6976febce1e426dbd0f52e0850c92949c0b51b
 
 #EXTINF:-1,MK_Sport_1
-https://
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_1/index.m3u8?googlekey=ae538b9479b1bf2c44ccd41435d216d3f565b83381637c9d90f3a71e54158678&keyhash=ae538b9479b1bf2c44ccd41435d216d3f565b83381637c9d90f3a71e54158678
 
 #EXTINF:-1,MK_Sport_2
-https://
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_2/index.m3u8?googlekey=3a8dbcc2fea6697752255b77ecdd16315b29bc950012b08dfd17f5691c8d2b91&keyhash=3a8dbcc2fea6697752255b77ecdd16315b29bc950012b08dfd17f5691c8d2b91
 
 #EXTINF:-1,MK_Sport_3
-https://
+https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/TNT_Sports_3/index.m3u8?googlekey=f2aef762d4a68ad6483f89ca71528c630463d31bb86155855dba11a0a77ba39a&keyhash=f2aef762d4a68ad6483f89ca71528c630463d31bb86155855dba11a0a77ba39a
 
 #EXTINF:-1,MK_Sport_4
 https://
