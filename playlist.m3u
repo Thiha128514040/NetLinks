@@ -1,12 +1,6 @@
 #EXTM3U
-
-#EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:1
 #EXT-X-PLAYLIST-TYPE:M3U8
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-TARGETDURATION:15
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="/file.key"
 
 #EXTINF:-1,MK_MITV
 https://livedth.95tv.live/memfs/d736d518-4450-4c4b-a10f-79093448d836.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJDTTF4R2xwSFIiLCJpYXQiOjE3NDUwMDMxODh9._m07kjjGwB0XU1WNx9L7I1aRqaO5aRm9_CYaIDvngCc
@@ -14,8 +8,8 @@ https://livedth.95tv.live/memfs/d736d518-4450-4c4b-a10f-79093448d836.m3u8?signKe
 #EXTINF:-1,MK_ChannelK
 https://livedth.95tv.live/memfs/035c07ae-e2fc-467b-a77d-5597ce323f84.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJGYzJaR2xwTlIiLCJpYXQiOjE3NDUwMDQzMzl9.O2x-EEzFk0r83Y1xG30ao7PXfWll_jWmM3v6ICmQKWE
 
-#EXTINF:-1,MK_MRTV
-https://livedth.95tv.live/memfs/0cd0f25d-4a79-4e90-920b-1a57a990077c.m3u8
+#EXTINF:-1,MK_MSC Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
 #EXTINF:-1,MK_RT News
 https://livedth.95tv.live/memfs/e10747cf-8767-4b89-9e88-0c1ea1c14c9a.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiIwRnI4R2x0TlIiLCJpYXQiOjE3NDUwMDQ1MDN9.jwly-fCJN-1_msZIKeqPUbo-V7k44vLsFpbm-T1ZBYk
@@ -35,20 +29,23 @@ https://livedth.95tv.live/memfs/afaf6f35-77cc-4e48-837e-660cece4e494.m3u8?signKe
 #EXTINF:-1,MK_BBC News
 https://livedth.95tv.live/memfs/c581a96c-7b14-40c5-abe7-72b41c7c3c25.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJpUHVhWmxwSGciLCJpYXQiOjE3NDUwMDQ5Njh9.3w0RD05PeoOAWC8yViLI3QqYGP_zJg22Dpg9l4pjIPs9cbe09f23c155947c1
 
-#EXTINF:-1,MK_5 PLUS
-https://livedth.95tv.live/memfs/25d8cb9e-997a-47e5-8532-8233ba778077.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJucTRWV2xwSFIiLCJpYXQiOjE3NDUwMDU3NTUsInVzZXJJRCI6InhLSWJCbEhTUiJ9.0bF2xUgN2Xc5tZR_YoRoUWgLMHfqHDFzWsIEN6gdDT0
+#EXTINF:-1,MK_MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODo0MDo1NiBQTSZoYXNoX3ZhbHVlPVdvQnhzejcvNXRvaTBwSVYrcGJIOGc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
 #EXTINF:-1,MK_Thai Channel 3
 https://livedth.95tv.live/memfs/cd7db126-b446-4ac7-b414-d9341af6db15.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJUTEwzV2xwSFIiLCJpYXQiOjE3NDUwMDYwMTUsInVzZXJJRCI6InhLSWJCbEhTUiJ9.BAm-jXAvEOdQSMMW-OeW9AROTzUfm0quvP2XknGPBqs
 
-#EXTINF:-1,MK_Bloomberg News
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,MK_Action Movie 1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/6eabf882-2a53-45d1-868b-c12bb226cf14/1.m3u8
 
-#EXTINF:-1,MK_Cinemax Action
-http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1,MK_Action Movie 2
+https://dr2t9f8nivbc6.cloudfront.net/hls/7J4MCDY/15F3B14EBB88/m.m3u8
 
-#EXTINF:-1,MK_HBO Action
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3aef1cb68154b8c67af
+#EXTINF:-1,MK_Action Movie 3
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-hollywood-network/9b8d1f30-6700-47c2-ac5e-97e266ecb597/1.m3u8
+
+#EXTINF:-1,MK_Cinema
+http://dr2t9f8nivbc6.cloudfront.net/hls/CLNSU5A/981401D03BA5/m.m3u8
 
 #EXTINF:-1,MK_PPTV 36
 http://50.7.234.10:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
@@ -59,173 +56,167 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6563/index.m3u8
 #EXTINF:-1,MK_TNT Action Movie
 http://38.96.178.201/live/TNTHD/index.m3u8
 
-#EXTINF:-1,MK_Sport MMA
-https://moments.videobyte.com/api/master.m3u8?sessionid=dd60c5487ad6
+#EXTINF:-1,MK_Sport Fight
+https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/0c4dea15-e37b-4246-8fb5-94869d1f409d/2.m3u8
 
-#EXTINF:-1,MK_Sport Live 2
-https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1745015276-0-0-b208f3de392cb6f11ba0d87f9345b55acff3d18dddb6a5b210b9b254dac1857d528dd1f
+#EXTINF:-1,MK_Fight Boxing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/1a65b6a3-3189-4d7d-a8fd-afc074c10f88/0.m3u8
 
-#EXTINF:-1,MK_Sport_Live 3
-https://
+#EXTINF:-1,MK_Sport_Fight
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.dpname=distrotv&ads.app_bundle=&ads.app_name=DistroTV&ads.app_store=&ads.did=&ads.us_privacy=0&ads.schain=1&ads.dnt=0&ads.deviceidtype=localStorage&ads.gdpr=0&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=20250418
 
-#EXTINF:-1,MK_Sport_Live 4
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1745015336-0-0-9cbcf1ecbd7df8339db3bdc2df29ed50
+#EXTINF:-1,MK_Sport SSC 1
+http://wanicelife.com:8880/D12m3967/74185011/27441
 
-#EXTINF:-1,MK_Sport_Live 5
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1745015396-0-0-8b20f073d70401528640055d396ac107
+#EXTINF:-1,MK_Sport SSC 2
+http://wanicelife.com:8880/D12m3967/74185011/27440
 
-#EXTINF:-1,MK_Sport_22
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Discovery_Channel_Live_TV/index.m3u8?googlekey=ef8e6e8cc94665e267b3da8cdd7e5ccbb75410020337a9de6498e801fd115169&keyhash=ef8e6e8cc94665e267b3da8cdd7e5ccbb75410020337a9de6498e801fd115169
+#EXTINF:-1,MK_Sport SSC 3
+http://wanicelife.com:8880/D12m3967/74185011/27439b43836c19d1273e3cc
 
-#EXTINF:-1,MK_Sport_23
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Discovery_Life_Live_TV/index.m3u8?googlekey=26cf5c27a0dee247bfc409f1bd3e2d469b59606bed7c138bffe0e53f9b40bb2b&keyhash=26cf5c27a0dee247bfc409f1bd3e2d469b59606bed7c138bffe0e53f9b40bb2b
+#EXTINF:-1,MK_Sport_SSC 4
+http://wanicelife.com:8880/D12m3967/74185011/27438
 
-#EXTINF:-1,MK_Sport_24
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Cinemax_West_Live_TV/index.m3u8?googlekey=4055655fb95fc4a3a4ab22addc3aae9a2a7d47b2d6b56fb43836c19d1273e3cc&keyhash=4055655fb95fc4a3a4ab22addc3aae9a2a7d47b2d6b56fb43836c19d1273e3cc
+#EXTINF:-1,MK_Sport_SSC 5
+http://wanicelife.com:8880/D12m3967/74185011/27437
 
-#EXTINF:-1,MK_Sport_25
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Great_Movies_Live_TV/index.m3u8?googlekey=5a7535dcf6a466d71a1c44b16a3668a142bd2af0b26db17ad08ed59c149d8625&keyhash=5a7535dcf6a466d71a1c44b16a3668a142bd2af0b26db17ad08ed59c149d8625
+#EXTINF:-1,MK_Sport SSC 6
+http://wanicelife.com:8880/D12m3967/74185011/27435
 
-#EXTINF:-1,MK_Sport_26
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Sky_Cinema_Comedy_Live_TV/index.m3u8?googlekey=5c19d30e018839ba4558a9e07cfffd4ead624df48a439ac003f3a83e2ce401f0&keyhash=5c19d30e018839ba4558a9e07cfffd4ead624df48a439ac003f3a83e2ce401f0
+#EXTINF:-1,MK_Sport SSC 7
+http://wanicelife.com:8880/D12m3967/74185011/27430
 
-#EXTINF:-1,MK_Sport_27
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Sky_Cinema_Family_Live_TV/index.m3u8?googlekey=41e58a2c4cc8a527a5816f2e96cbdace45e2aed64d038f54b1dd9f5c5af8f223&keyhash=41e58a2c4cc8a527a5816f2e96cbdace45e2aed64d038f54b1dd9f5c5af8f223
+#EXTINF:-1,MK_Sport_WWE
+http://wanicelife.com:8880/D12m3967/74185011/3011
 
-#EXTINF:-1,MK_Sport_28
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Cartoon_Network_Live_TV/index.m3u8?googlekey=e1e2a68b4abfe476db2edab869990252cf214e9f89c8ecb90b8dab0d9fa89257&keyhash=e1e2a68b4abfe476db2edab869990252cf214e9f89c8ecb90b8dab0d9fa89257
+#EXTINF:-1,MK_Sport_Bein
+http://wanicelife.com:8880/D12m3967/74185011/30178
 
-#EXTINF:-1,MK_Sport_29
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Virgin_2/index.m3u8?googlekey=24838f2da4faec4eb1748a441e778ab28756e8dcc6528532c875618b8de21f4c&keyhash=24838f2da4faec4eb1748a441e778ab28756e8dcc6528532c875618b8de21f4c
+#EXTINF:-1,MK_Sport_DAZN 1
+http://wanicelife.com:8880/D12m3967/74185011/2655
 
-#EXTINF:-1,MK_Sport_30
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Virgin_1/index.m3u8?googlekey=b311007275ef3e490d93c23d5ec7f9c9f6276faa7960c1012051a8f48fff72ec&keyhash=b311007275ef3e490d93c23d5ec7f9c9f6276faa7960c1012051a8f48fff72ec
+#EXTINF:-1,MK_Sport_DAZN 2
+http://wanicelife.com:8880/D12m3967/74185011/2654
 
-#EXTINF:-1,MK_Sport_31
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/UK_Virgin_3/index.m3u8?googlekey=fc244f6abde3a70bd261cc6d7dbcaa572c735a7ee976d622691d699d2fd417bc&keyhash=fc244f6abde3a70bd261cc6d7dbcaa572c735a7ee976d622691d699d2fd417bc
+#EXTINF:-1,MK_Sport_MAGENTA 1
+http://wanicelife.com:8880/D12m3967/74185011/2621
 
-#EXTINF:-1,MK_Sport_32
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/DAZN_Live_TV/index.m3u8?googlekey=a331d8cca22df2785dbbf8140a874e2d81e80ee63b5dfc7e1177263d269bce75&keyhash=a331d8cca22df2785dbbf8140a874e2d81e80ee63b5dfc7e1177263d269bce75
+#EXTINF:-1,MK_Sport_Sky Premier
+http://wanicelife.com:8880/D12m3967/74185011/29071
 
-#EXTINF:-1,MK_Sport_33
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Bein_Sports_English_2_Live_TV/index.m3u8?googlekey=9c916211e14e1ff130d0b73a01831ad13428a09c64f4c7f89d82538b3199d177&keyhash=9c916211e14e1ff130d0b73a01831ad13428a09c64f4c7f89d82538b3199d177
+#EXTINF:-1,MK_Sport_UFC
+http://wanicelife.com:8880/D12m3967/74185011/29043
 
-#EXTINF:-1,MK_Sport_34
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Bein_Sports_English_3_Live_TV/index.m3u8?googlekey=d62b8a7ee3ae5c048ab96ae0bbc0e0d43862d84df731017ff35a36bfa8c8b791&keyhash=d62b8a7ee3ae5c048ab96ae0bbc0e0d43862d84df731017ff35a36bfa8c8b791
+#EXTINF:-1,MK_Sport_Sky Football
+http://wanicelife.com:8880/D12m3967/74185011/2685
 
-#EXTINF:-1,MK_Sport_35
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/SuperSport_Premier_League_Live_TV/index.m3u8?googlekey=ce97dfb664c8223f331a63fc606d4b47e99b9c4ce665dddf8e277df8c37c02b7&keyhash=ce97dfb664c8223f331a63fc606d4b47e99b9c4ce665dddf8e277df8c37c02b7
+#EXTINF:-1,MK_Sport_ESPN 1
+http://wanicelife.com:8880/D12m3967/74185011/31425
 
-#EXTINF:-1,MK_Sport_36
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/SuperSport_Blitz_Live_TV/index.m3u8?googlekey=533a3eb42488d3f3bdeb761a0d5d962fcd4c16e548384e1ec16a0c94f71a4840&keyhash=533a3eb42488d3f3bdeb761a0d5d962fcd4c16e548384e1ec16a0c94f71a4840
+#EXTINF:-1,MK_Sport_ESPN 2
+http://wanicelife.com:8880/D12m3967/74185011/31424
 
-#EXTINF:-1,MK_Sport_37
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/SuperSport_Cricket_Live_TV/index.m3u8?googlekey=4de9611c80840ac59e72cf44d4c22a99c7f4f64537adc3dc69f4eafb645b034e&keyhash=4de9611c80840ac59e72cf44d4c22a99c7f4f64537adc3dc69f4eafb645b034e
+#EXTINF:-1,MK_Sport_ESPN 3
+http://wanicelife.com:8880/D12m3967/74185011/31423
 
-#EXTINF:-1,MK_Sport_38
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/SuperSport_Football_Live_TV/index.m3u8?googlekey=e34fbe4b1b66876638489cb1bd6c74595259ec35cc92d24aecda81c5ba387114&keyhash=e34fbe4b1b66876638489cb1bd6c74595259ec35cc92d24aecda81c5ba387114
+#EXTINF:-1,MK_Sport_ESPN 4
+http://wanicelife.com:8880/D12m3967/74185011/31422
 
-#EXTINF:-1,MK_Sport_39
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/SuperSport_Tennis_Live_TV/index.m3u8?googlekey=85c18a9da0a3de8e9b9a1a1ebe2a50e8283ee66e7c9e81ba2e681f00f2fa5f9a&keyhash=85c18a9da0a3de8e9b9a1a1ebe2a50e8283ee66e7c9e81ba2e681f00f2fa5f9a
+#EXTINF:-1,MK_Sport_Ziggo
+http://wanicelife.com:8880/D12m3967/74185011/31405
 
-#EXTINF:-1,MK_Sport_40
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Variety_1_Live_TV/index.m3u8?googlekey=e9c7b88fcb10587f9aaa4f076f72f63f6c36d836a2e03d99b97f5f49234f3fd7&keyhash=e9c7b88fcb10587f9aaa4f076f72f63f6c36d836a2e03d99b97f5f49234f3fd7
+#EXTINF:-1,MK_Sport.tv 1
+http://wanicelife.com:8880/D12m3967/74185011/3192
 
-#EXTINF:-1,MK_Sport_41
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Variety_2_Live_TV/index.m3u8?googlekey=436659c4411ac01bd50de78be295c0728acc1ef3f0c4cc402981ebac9b67926d&keyhash=436659c4411ac01bd50de78be295c0728acc1ef3f0c4cc402981ebac9b67926d
+#EXTINF:-1,MK_Sport.tv 2
+http://wanicelife.com:8880/D12m3967/74185011/3191
 
-#EXTINF:-1,MK_Sport_42
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Variety_3_Live_TV/index.m3u8?googlekey=e32aa0ff4f18116a04612c92f6e0ef5a6e7aa1a3b68d37c839e897c10c357f8c&keyhash=e32aa0ff4f18116a04612c92f6e0ef5a6e7aa1a3b68d37c839e897c10c357f8c
+#EXTINF:-1,MK_Sport.tv 3
+http://wanicelife.com:8880/D12m3967/74185011/3190
 
-#EXTINF:-1,MK_Sport_43
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Variety_4_Live_TV/index.m3u8?googlekey=895bf1a65894b807be32ca92f1682c702c0b5bbf05a5ea811b45dd027af95ad4&keyhash=895bf1a65894b807be32ca92f1682c702c0b5bbf05a5ea811b45dd027af95ad4
+#EXTINF:-1,MK_Sport.tv 4
+http://wanicelife.com:8880/D12m3967/74185011/3189
 
-#EXTINF:-1,MK_Sport_44
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Eurosport_2_Live_TV/index.m3u8?googlekey=b011499099c44723614dc66dd306a6df2d7b18ce94356e854c29460631dd19e7&keyhash=b011499099c44723614dc66dd306a6df2d7b18ce94356e854c29460631dd19e7
+#EXTINF:-1,MK_Sport.tv 5
+http://wanicelife.com:8880/D12m3967/74185011/3188
 
-#EXTINF:-1,MK_Sport_45
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Premier_Sports_1/index.m3u8?googlekey=951b56eb589f3dbcd0041f5ea75f15702361587c659792ee5798a392d93050c9&keyhash=951b56eb589f3dbcd0041f5ea75f15702361587c659792ee5798a392d93050c9
+#EXTINF:-1,MK_Sport.tv +
+http://wanicelife.com:8880/D12m3967/74185011/3187
 
-#EXTINF:-1,MK_Sport_50
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Premier_Sports_2/index.m3u8?googlekey=75b5afa3b2945251e596c97bf2588f31bd4abc10659f25bee12ab8ce91d3b612&keyhash=75b5afa3b2945251e596c97bf2588f31bd4abc10659f25bee12ab8ce91d3b612
+#EXTINF:-1,MK_Sporting.tv
+http://wanicelife.com:8880/D12m3967/74185011/3186
 
-#EXTINF:-1,MK_Sport_51
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Golf_Channel_Live_TV/index.m3u8?googlekey=1b8c8fd7ed37ca78459919c713c14282c3bde22fbd25f6cdba1f32bfe6f8c865&keyhash=1b8c8fd7ed37ca78459919c713c14282c3bde22fbd25f6cdba1f32bfe6f8c865
+#EXTINF:-1,MK_Sport_Eleven 3
+http://wanicelife.com:8880/D12m3967/74185011/29371
 
-#EXTINF:-1,MK_Sport_52
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/MLB_Network_Live_TV/index.m3u8?googlekey=3495c2f9c6c8e3471b289b16ebdb4b58810953702d5d665b268908661be2b7df&keyhash=3495c2f9c6c8e3471b289b16ebdb4b58810953702d5d665b268908661be2b7df
+#EXTINF:-1,MK_Sport_Eleven 4
+http://wanicelife.com:8880/D12m3967/74185011/29370
 
-#EXTINF:-1,MK_Sport_53
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/NFL_Network_Live_TV/index.m3u8?googlekey=30d0f61a74c96cfa044e5ff01c53f4db6e0646483a1ea66b7cb6c6ef071b7496&keyhash=30d0f61a74c96cfa044e5ff01c53f4db6e0646483a1ea66b7cb6c6ef071b7496
+#EXTINF:-1,MK_Sport_Eleven 5
+http://wanicelife.com:8880/D12m3967/74185011/29369
 
-#EXTINF:-1,MK_Sport_54
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/NHL_Network_Live_TV/index.m3u8?googlekey=1e5d6e58c04366a427e998ba9a1d276287bd9cb965e4519fa12894db6d7f47c7&keyhash=1e5d6e58c04366a427e998ba9a1d276287bd9cb965e4519fa12894db6d7f47c7
+#EXTINF:-1,MK_Sport_Eleven 6
+http://wanicelife.com:8880/D12m3967/74185011/29368
 
-#EXTINF:-1,MK_Sport_55
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/WWE_Live_TV/index.m3u8?googlekey=c2a78f6c82c1f92bf1307451a7fa0adaf0220ac0db373cd97d0b130b7c1cb633&keyhash=c2a78f6c82c1f92bf1307451a7fa0adaf0220ac0db373cd97d0b130b7c1cb633
+#EXTINF:-1,MK_Sport_Eleven 1SD
+http://wanicelife.com:8880/D12m3967/74185011/29334
 
-#EXTINF:-1,MK_Sport_56
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Willow_Cricket_Live_TV/index.m3u8?googlekey=d91afaf6ac4eef2ac1e2a03f8275cc7643573eec06cd7ba555bd9139af418eec&keyhash=d91afaf6ac4eef2ac1e2a03f8275cc7643573eec06cd7ba555bd9139af418eec
+#EXTINF:-1,MK_Sport_Eleven 2SD
+http://wanicelife.com:8880/D12m3967/74185011/29356
 
-#EXTINF:-1,MK_Sport_57
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Willow_Extra_Live_TV/index.m3u8?googlekey=ff34dd409d0398947d4c09eca7637a6870186bf0e5bec8ed5b56279fba63707c&keyhash=ff34dd409d0398947d4c09eca7637a6870186bf0e5bec8ed5b56279fba63707c
+#EXTINF:-1,MK_Sport_Eleven 3SD
+http://wanicelife.com:8880/D12m3967/74185011/29345
 
-#EXTINF:-1,MK_Sport_58
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ESPN_Live_TV/index.m3u8?googlekey=eb4bf9572cf3fb11e5ff7f2d618698402ebc4ee13d0881953bba9a179474c427&keyhash=eb4bf9572cf3fb11e5ff7f2d618698402ebc4ee13d0881953bba9a179474c427
+#EXTINF:-1,MK_Sport_Eleven 4SD
+http://wanicelife.com:8880/D12m3967/74185011/29344
 
-#EXTINF:-1,MK_Sport_59
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ESPN_2_Live_TV/index.m3u8?googlekey=f6cf67138faea4940485ca40b8284eca97aab48123fdbc58911b256bf7895521&keyhash=f6cf67138faea4940485ca40b8284eca97aab48123fdbc58911b256bf7895521
+#EXTINF:-1,MK_Sport_Bein 1
+http://wanicelife.com:8880/D12m3967/74185011/33028
 
-#EXTINF:-1,MK_Sport_60
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ESPN_News_Live_TV/index.m3u8?googlekey=3483a5deaed9b22743d8f3be53c41fd1c5172bd5415cd77addb3a4d5bfa01d6d&keyhash=3483a5deaed9b22743d8f3be53c41fd1c5172bd5415cd77addb3a4d5bfa01d6d
+#EXTINF:-1,MK_Sport_Bein 2
+http://wanicelife.com:8880/D12m3967/74185011/33027
 
-#EXTINF:-1,MK_Sport_61
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ESPN_U_Live_TV/index.m3u8?googlekey=07cbf6ae72f2b8cf5d809efcd4ccc96a500a27d6b4e0c828350f51a58bb735ba&keyhash=07cbf6ae72f2b8cf5d809efcd4ccc96a500a27d6b4e0c828350f51a58bb735ba
+#EXTINF:-1,MK_Sport_Bein 3
+http://wanicelife.com:8880/D12m3967/74185011/33026
 
-#EXTINF:-1,MK_Sport_62
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ITV_1/index.m3u8?googlekey=0596ecdcf9855352e9f9cb519a0b8ae42cfbc407d73169ab351dff1a63482d7f&keyhash=0596ecdcf9855352e9f9cb519a0b8ae42cfbc407d73169ab351dff1a63482d7f
+#EXTINF:-1,MK_Sport_Bein 4
+http://wanicelife.com:8880/D12m3967/74185011/33025
 
-#EXTINF:-1,MK_Sport_63
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ITV_2/index.m3u8?googlekey=90e00df3066948f2388e30ac7b1bd2b7e5d5cd841307702d998609cd5e6b5a70&keyhash=90e00df3066948f2388e30ac7b1bd2b7e5d5cd841307702d998609cd5e6b5a70
+#EXTINF:-1,MK_Sport_Beun 5
+http://wanicelife.com:8880/D12m3967/74185011/33024
 
-#EXTINF:-1,MK_Sport_64
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ITV_3/index.m3u8?googlekey=e3de72ff8b553eadb626fa0988477063e0c28d5b0f2d2d1cd6255564b7b37584&keyhash=e3de72ff8b553eadb626fa0988477063e0c28d5b0f2d2d1cd6255564b7b37584
+#EXTINF:-1,MK_Sport_Bein MAX 1
+http://wanicelife.com:8880/D12m3967/74185011/33022
 
-#EXTINF:-1,MK_Sport_65
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ITV_4/index.m3u8?googlekey=750e694be4dd1f7bf5d6167a9151f68066355c75eeb8b9fa660655440e31268e&keyhash=750e694be4dd1f7bf5d6167a9151f68066355c75eeb8b9fa660655440e31268e
+#EXTINF:-1,MK_Sport_Bein MAX 2
+http://wanicelife.com:8880/D12m3967/74185011/33021
 
-#EXTINF:-1,MK_Sport_66
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/MUTV_Live_TV/index.m3u8?googlekey=bee35d448953da671ec89558b6447ccc80fbe7c460d390b803e4448f039a6a06&keyhash=bee35d448953da671ec89558b6447ccc80fbe7c460d390b803e4448f039a6a06
+#EXTINF:-1,MK_Sport_S 1
+http://wanicelife.com:8880/D12m3967/74185011/32885
 
-#EXTINF:-1,MK_Sport_67
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/LFC_TV_Live_TV/index.m3u8?googlekey=7cd7a1b0e695cf710ada8188b1b86a3514070c170bc4f05f5659515750efa03b&keyhash=7cd7a1b0e695cf710ada8188b1b86a3514070c170bc4f05f5659515750efa03b
+#EXTINF:-1,MK_Sport_S 2
+http://wanicelife.com:8880/D12m3967/74185011/32884
 
-#EXTINF:-1,MK_Sport_68
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/FOX_NEWS_Live_TV/index.m3u8?googlekey=34b140ea69dbb01ce6104d2c7823062f07d6f0fd00e1f83cb96f9eb3ed37595a&keyhash=34b140ea69dbb01ce6104d2c7823062f07d6f0fd00e1f83cb96f9eb3ed37595a
+#EXTINF:-1,MK_Sport_Saran 1
+http://wanicelife.com:8880/D12m3967/74185011/32880
 
-#EXTINF:-1,MK_Sport_69
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/ACC_Network_Live_TV/index.m3u8?googlekey=8790107170a061ec4909ea107fca4b6201ef6432e0a9005557c3300a3a370607&keyhash=8790107170a061ec4909ea107fca4b6201ef6432e0a9005557c3300a3a370607
+#EXTINF:-1,MK_Sport_Saran 2
+http://wanicelife.com:8880/D12m3967/74185011/32879
 
-#EXTINF:-1,MK_Sport_70
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/CBS_Sports_Network_Live_TV/index.m3u8?googlekey=5453ff8f4c7dddc47ea36a4c9fd202414cede30745598278ffb200e1a6178622&keyhash=5453ff8f4c7dddc47ea36a4c9fd202414cede30745598278ffb200e1a6178622
+#EXTINF:-1,MK_Sport_Smart 1
+http://wanicelife.com:8880/D12m3967/74185011/32848
 
-#EXTINF:-1,MK_Sport_71
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/CNBC_Live_TV/index.m3u8?googlekey=c155dc1070368200b4f6e449b9d4d04aba5549a33727b18a5080a6ec1ae6a7c4&keyhash=c155dc1070368200b4f6e449b9d4d04aba5549a33727b18a5080a6ec1ae6a7c4
+#EXTINF:-1,MK_Sport_TRT
+http://wanicelife.com:8880/D12m3967/74185011/32817
 
-#EXTINF:-1,MK_Sport_72
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Fox_Sports_1_Live_TV/index.m3u8?googlekey=5d4aee01781afafc62c2149e770f755e22fe53e2f2499b37cf46ad0ea9b0e578&keyhash=5d4aee01781afafc62c2149e770f755e22fe53e2f2499b37cf46ad0ea9b0e578
+#EXTINF:-1,MK_Sport_BT 1
+http://wanicelife.com:8880/D12m3967/74185011/2943
 
-#EXTINF:-1,MK_Sport_73
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Fox_Sports_2_Live_TV/index.m3u8?googlekey=b3cb5bd2202847a76b17ed4a27f1421ba311d4661cc89951a2bdea67a3d3fcc4&keyhash=b3cb5bd2202847a76b17ed4a27f1421ba311d4661cc89951a2bdea67a3d3fcc4
+#EXTINF:-1,MK_Sport_BT 2
+http://wanicelife.com:8880/D12m3967/74185011/2942
 
-#EXTINF:-1,MK_Sport_74
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Tennis/index.m3u8?googlekey=98ab55221ff14baea081f6894cad0c2119d25167a769aacb1c6084fa3a24eadd&keyhash=98ab55221ff14baea081f6894cad0c2119d25167a769aacb1c6084fa3a24eadd
+#EXTINF:-1,MK_Sport_BT 3
+http://wanicelife.com:8880/D12m3967/74185011/2941
 
-#EXTINF:-1,MK_Sport_75
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Sky_Sports_Premier_League_BU/index.m3u8?googlekey=961994f373f7bd36d6b8879a2980e54123dcd251469a30178080c72e5fef2278&keyhash=961994f373f7bd36d6b8879a2980e54123dcd251469a30178080c72e5fef2278
-
-#EXTINF:-1,MK_Sport_76
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Bein_Sports_USA_Live_TV/index.m3u8?googlekey=ca80d82c26b3abbea63995eea8b6bdffdb60ffec91ae08f4d977771cfd2ba332&keyhash=ca80d82c26b3abbea63995eea8b6bdffdb60ffec91ae08f4d977771cfd2ba332
-
-#EXTINF:-1,MK_Sport_77
-https://rr3---sg-npoe23nsr.m82xg4z0cdbz7.com/Bein_Sports_English_2_Live_TV/index.m3u8?googlekey=a6ff6a0379bb5026e67b7391d54e28ff215f0d5f615b0933b1c4ff5814b85e8c&keyhash=a6ff6a0379bb5026e67b7391d54e28ff215f0d5f615b0933b1c4ff5814b85e8c
+#EXTINF:-1,MK_Sport_Premier
+http://wanicelife.com:8880/D12m3967/74185011/2870
