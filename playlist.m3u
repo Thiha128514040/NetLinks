@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-PLAYLIST-TYPE:M3U8
 
@@ -11,212 +13,50 @@ https://livedth.95tv.live/memfs/035c07ae-e2fc-467b-a77d-5597ce323f84.m3u8?signKe
 #EXTINF:-1,MK_MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
-#EXTINF:-1,MK_RT News
-https://livedth.95tv.live/memfs/e10747cf-8767-4b89-9e88-0c1ea1c14c9a.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiIwRnI4R2x0TlIiLCJpYXQiOjE3NDUwMDQ1MDN9.jwly-fCJN-1_msZIKeqPUbo-V7k44vLsFpbm-T1ZBYk
+#EXTINF:-1,MK_Bein SD1
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/24920
 
-#EXTINF:-1,MK_Thai 7
-https://livedth.95tv.live/memfs/bb0db665-d870-4621-9c90-e2b26403a8a4.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiIwTE94aWxwTlIiLCJpYXQiOjE3NDUwMDQ2NDF9.tTy3FfRRvv2xnJgTZmtaMQwctbjLqYRuU1bC6d1ksiM
+#EXTINF:-1,MK_Bein SD4
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/24923
 
-#EXTINF:-1,MK_CGTN News
-https://livedth.95tv.live/memfs/807fac3b-f181-47b0-979d-24dc6b55638b.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJKNWJ3Wmx0SFIiLCJpYXQiOjE3NDUwMDQ3Mjh9.l1QYDviWSB9rtXBMpO4lapJ5Cge5p4CGq2qB6lHZB58
+#EXTINF:-1,MK_Sport 1
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/55177
 
-#EXTINF:-1,MK_TNN 16
-https://livedth.95tv.live/memfs/45a713ab-68e5-4abd-aecc-2ee398ce3b4a.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJNQ0xkV2x0TmciLCJpYXQiOjE3NDUwMDQ3ODZ9.imbFINXyrit41G_Fk06MqOVfuWt2twq35r1e_-qBn_8
+#EXTINF:-1,MK_Sport 2
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/55178
 
-#EXTINF:-1,MK_Aljazeera News
-https://livedth.95tv.live/memfs/afaf6f35-77cc-4e48-837e-660cece4e494.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJEZ0hvWmxwSGciLCJpYXQiOjE3NDUwMDQ4NTl9.ft4aqZlnNK6Nd0-ME6rOelZ4-CM3D5HrS0KKfydhiM8
+#EXTINF:-1,MK_Sport 3
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/56010
 
-#EXTINF:-1,MK_BBC News
-https://livedth.95tv.live/memfs/c581a96c-7b14-40c5-abe7-72b41c7c3c25.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJpUHVhWmxwSGciLCJpYXQiOjE3NDUwMDQ5Njh9.3w0RD05PeoOAWC8yViLI3QqYGP_zJg22Dpg9l4pjIPs9cbe09f23c155947c1
+#EXTINF:-1,MK_Sport 4
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6818
 
-#EXTINF:-1,MK_MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODo0MDo1NiBQTSZoYXNoX3ZhbHVlPVdvQnhzejcvNXRvaTBwSVYrcGJIOGc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+#EXTINF:-1,MK_Sport 5
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6819
 
-#EXTINF:-1,MK_Thai Channel 3
-https://livedth.95tv.live/memfs/cd7db126-b446-4ac7-b414-d9341af6db15.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJUTEwzV2xwSFIiLCJpYXQiOjE3NDUwMDYwMTUsInVzZXJJRCI6InhLSWJCbEhTUiJ9.BAm-jXAvEOdQSMMW-OeW9AROTzUfm0quvP2XknGPBqs
+#EXTINF:-1,MK_Sport 6
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6820
 
-#EXTINF:-1,MK_Action Movie 1
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/6eabf882-2a53-45d1-868b-c12bb226cf14/1.m3u8
+#EXTINF:-1,MK_Sport 7
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6821
 
-#EXTINF:-1,MK_Action Movie 2
-https://dr2t9f8nivbc6.cloudfront.net/hls/7J4MCDY/15F3B14EBB88/m.m3u8
+#EXTINF:-1,MK_Sport 8
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6822
 
-#EXTINF:-1,MK_Action Movie 3
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-hollywood-network/9b8d1f30-6700-47c2-ac5e-97e266ecb597/1.m3u8
+#EXTINF:-1,MK_Sport 9
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6817
 
-#EXTINF:-1,MK_Cinema
-http://dr2t9f8nivbc6.cloudfront.net/hls/CLNSU5A/981401D03BA5/m.m3u8
+#EXTINF:-1,MK_Sport 10
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/55493
 
-#EXTINF:-1,MK_PPTV 36
-http://50.7.234.10:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+#EXTINF:-1,MK_Sport 11
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/55487
 
-#EXTINF:-1,MK_itv Movie
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6563/index.m3u8
+#EXTINF:-1,MK_Sport 12
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/34935
 
-#EXTINF:-1,MK_TNT Action Movie
-http://38.96.178.201/live/TNTHD/index.m3u8
+#EXTINF:-1,MK_Sport 13
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6816
 
-#EXTINF:-1,MK_Sport Fight
-https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/0c4dea15-e37b-4246-8fb5-94869d1f409d/2.m3u8
-
-#EXTINF:-1,MK_Fight Boxing
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/1a65b6a3-3189-4d7d-a8fd-afc074c10f88/0.m3u8
-
-#EXTINF:-1,MK_Sport_Fight
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.dpname=distrotv&ads.app_bundle=&ads.app_name=DistroTV&ads.app_store=&ads.did=&ads.us_privacy=0&ads.schain=1&ads.dnt=0&ads.deviceidtype=localStorage&ads.gdpr=0&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=20250418
-
-#EXTINF:-1,MK_Sport SSC 1
-http://wanicelife.com:8880/D12m3967/74185011/27441
-
-#EXTINF:-1,MK_Sport SSC 2
-http://wanicelife.com:8880/D12m3967/74185011/27440
-
-#EXTINF:-1,MK_Sport SSC 3
-http://wanicelife.com:8880/D12m3967/74185011/27439b43836c19d1273e3cc
-
-#EXTINF:-1,MK_Sport_SSC 4
-http://wanicelife.com:8880/D12m3967/74185011/27438
-
-#EXTINF:-1,MK_Sport_SSC 5
-http://wanicelife.com:8880/D12m3967/74185011/27437
-
-#EXTINF:-1,MK_Sport SSC 6
-http://wanicelife.com:8880/D12m3967/74185011/27435
-
-#EXTINF:-1,MK_Sport SSC 7
-http://wanicelife.com:8880/D12m3967/74185011/27430
-
-#EXTINF:-1,MK_Sport_WWE
-http://wanicelife.com:8880/D12m3967/74185011/3011
-
-#EXTINF:-1,MK_Sport_Bein
-http://wanicelife.com:8880/D12m3967/74185011/30178
-
-#EXTINF:-1,MK_Sport_DAZN 1
-http://wanicelife.com:8880/D12m3967/74185011/2655
-
-#EXTINF:-1,MK_Sport_DAZN 2
-http://wanicelife.com:8880/D12m3967/74185011/2654
-
-#EXTINF:-1,MK_Sport_MAGENTA 1
-http://wanicelife.com:8880/D12m3967/74185011/2621
-
-#EXTINF:-1,MK_Sport_Sky Premier
-http://wanicelife.com:8880/D12m3967/74185011/29071
-
-#EXTINF:-1,MK_Sport_UFC
-http://wanicelife.com:8880/D12m3967/74185011/29043
-
-#EXTINF:-1,MK_Sport_Sky Football
-http://wanicelife.com:8880/D12m3967/74185011/2685
-
-#EXTINF:-1,MK_Sport_ESPN 1
-http://wanicelife.com:8880/D12m3967/74185011/31425
-
-#EXTINF:-1,MK_Sport_ESPN 2
-http://wanicelife.com:8880/D12m3967/74185011/31424
-
-#EXTINF:-1,MK_Sport_ESPN 3
-http://wanicelife.com:8880/D12m3967/74185011/31423
-
-#EXTINF:-1,MK_Sport_ESPN 4
-http://wanicelife.com:8880/D12m3967/74185011/31422
-
-#EXTINF:-1,MK_Sport_Ziggo
-http://wanicelife.com:8880/D12m3967/74185011/31405
-
-#EXTINF:-1,MK_Sport.tv 1
-http://wanicelife.com:8880/D12m3967/74185011/3192
-
-#EXTINF:-1,MK_Sport.tv 2
-http://wanicelife.com:8880/D12m3967/74185011/3191
-
-#EXTINF:-1,MK_Sport.tv 3
-http://wanicelife.com:8880/D12m3967/74185011/3190
-
-#EXTINF:-1,MK_Sport.tv 4
-http://wanicelife.com:8880/D12m3967/74185011/3189
-
-#EXTINF:-1,MK_Sport.tv 5
-http://wanicelife.com:8880/D12m3967/74185011/3188
-
-#EXTINF:-1,MK_Sport.tv +
-http://wanicelife.com:8880/D12m3967/74185011/3187
-
-#EXTINF:-1,MK_Sporting.tv
-http://wanicelife.com:8880/D12m3967/74185011/3186
-
-#EXTINF:-1,MK_Sport_Eleven 3
-http://wanicelife.com:8880/D12m3967/74185011/29371
-
-#EXTINF:-1,MK_Sport_Eleven 4
-http://wanicelife.com:8880/D12m3967/74185011/29370
-
-#EXTINF:-1,MK_Sport_Eleven 5
-http://wanicelife.com:8880/D12m3967/74185011/29369
-
-#EXTINF:-1,MK_Sport_Eleven 6
-http://wanicelife.com:8880/D12m3967/74185011/29368
-
-#EXTINF:-1,MK_Sport_Eleven 1SD
-http://wanicelife.com:8880/D12m3967/74185011/29334
-
-#EXTINF:-1,MK_Sport_Eleven 2SD
-http://wanicelife.com:8880/D12m3967/74185011/29356
-
-#EXTINF:-1,MK_Sport_Eleven 3SD
-http://wanicelife.com:8880/D12m3967/74185011/29345
-
-#EXTINF:-1,MK_Sport_Eleven 4SD
-http://wanicelife.com:8880/D12m3967/74185011/29344
-
-#EXTINF:-1,MK_Sport_Bein 1
-http://wanicelife.com:8880/D12m3967/74185011/33028
-
-#EXTINF:-1,MK_Sport_Bein 2
-http://wanicelife.com:8880/D12m3967/74185011/33027
-
-#EXTINF:-1,MK_Sport_Bein 3
-http://wanicelife.com:8880/D12m3967/74185011/33026
-
-#EXTINF:-1,MK_Sport_Bein 4
-http://wanicelife.com:8880/D12m3967/74185011/33025
-
-#EXTINF:-1,MK_Sport_Beun 5
-http://wanicelife.com:8880/D12m3967/74185011/33024
-
-#EXTINF:-1,MK_Sport_Bein MAX 1
-http://wanicelife.com:8880/D12m3967/74185011/33022
-
-#EXTINF:-1,MK_Sport_Bein MAX 2
-http://wanicelife.com:8880/D12m3967/74185011/33021
-
-#EXTINF:-1,MK_Sport_S 1
-http://wanicelife.com:8880/D12m3967/74185011/32885
-
-#EXTINF:-1,MK_Sport_S 2
-http://wanicelife.com:8880/D12m3967/74185011/32884
-
-#EXTINF:-1,MK_Sport_Saran 1
-http://wanicelife.com:8880/D12m3967/74185011/32880
-
-#EXTINF:-1,MK_Sport_Saran 2
-http://wanicelife.com:8880/D12m3967/74185011/32879
-
-#EXTINF:-1,MK_Sport_Smart 1
-http://wanicelife.com:8880/D12m3967/74185011/32848
-
-#EXTINF:-1,MK_Sport_TRT
-http://wanicelife.com:8880/D12m3967/74185011/32817
-
-#EXTINF:-1,MK_Sport_BT 1
-http://wanicelife.com:8880/D12m3967/74185011/2943
-
-#EXTINF:-1,MK_Sport_BT 2
-http://wanicelife.com:8880/D12m3967/74185011/2942
-
-#EXTINF:-1,MK_Sport_BT 3
-http://wanicelife.com:8880/D12m3967/74185011/2941
-
-#EXTINF:-1,MK_Sport_Premier
-http://wanicelife.com:8880/D12m3967/74185011/2870
+#EXTINF:-1,MK_Sport 14
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/55172
