@@ -60,3 +60,12 @@ http://myatlasiptv.xyz:2052/AZIMUT4/111111/6816
 
 #EXTINF:-1,MK_Sport 14
 http://myatlasiptv.xyz:2052/AZIMUT4/111111/55172
+
+#EXTINF:-1,MK_Sport 15
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,MK_Sport 16
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1,MK_Sport 17
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
