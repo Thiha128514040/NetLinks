@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-PLAYLIST-TYPE:M3U8
 
@@ -8,7 +6,7 @@
 https://livedth.95tv.live/memfs/d736d518-4450-4c4b-a10f-79093448d836.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJDTTF4R2xwSFIiLCJpYXQiOjE3NDUwMDMxODh9._m07kjjGwB0XU1WNx9L7I1aRqaO5aRm9_CYaIDvngCc
 
 #EXTINF:-1,MK_Bein SD1
-http://myatlasiptv.xyz:2052/AZIMUT4/111111/24920
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/7040
 
 #EXTINF:-1,MK_Bein SD4
 http://myatlasiptv.xyz:2052/AZIMUT4/111111/24923
@@ -63,3 +61,72 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1,MK_Sport 17
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+#EXTINF:-1,MK_NETFILX Movie 1
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6929
+
+#EXTINF:-1,MK_NETFILX Movie 2
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/8576
+
+#EXTINF:-1,MK_NETFILX Movie 3
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6924
+
+#EXTINF:-1,MK_NETFILX Movie 4
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6925
+
+#EXTINF:-1,MK_NETFILX Movie 5
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6926
+
+#EXTINF:-1,MK_NETFILX Movie 6
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6928
+
+#EXTINF:-1,MK_NETFILX Movie 7
+1http://myatlasiptv.xyz:2052/AZIMUT4/111111/6915
+
+#EXTINF:-1,MK_NETFILX Movie 8
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6914
+
+#EXTINF:-1,MK_NETFILX Movie 9
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6913
+
+#EXTINF:-1,MK_NETFILX Movie 10
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6911
+
+#EXTINF:-1,MK_NETFILX Movie 11
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6917
+
+#EXTINF:-1,MK_NETFILX Movie 12
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6910
+
+#EXTINF:-1,MK_NETFILX Movie 13
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6909
+
+#EXTINF:-1,MK_NETFILX Movie 14
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6907
+
+#EXTINF:-1,MK_NETFILX Movie 15
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/8577
+
+#EXTINF:-1,MK_NETFILX Movie 16
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/8578
+
+#EXTINF:-1,MK_NETFILX Movie 17
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6916
+
+#EXTINF:-1,MK_NETFILX Movie 18
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6918
+
+#EXTINF:-1,MK_NETFILX Movie 19
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6919
+
+#EXTINF:-1,MK_NETFILX Movie 20
+http://myatlasiptv.xyz:2052/AZIMUT4/111111/6920
+
+#EXTINF:-1,MK_Sony Ten2
+http://103.175.242.10:8080/sonyten2/index.m3u8
+
+#EXTINF:-1,MK_Sony Ten3
+http://103.175.242.10:8080/sonyten3/index.m3u8
+
+#EXTINF:-1,MK_Sony Ten5
+http://103.175.242.10:8080/sonyten5/index.m3u8
