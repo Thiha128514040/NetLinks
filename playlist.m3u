@@ -2,9 +2,50 @@
 #EXT-X-VERSION:1
 #EXT-X-PLAYLIST-TYPE:M3U8
 
-#EXTINF:-1,MK_MITV
-https://livedth.95tv.live/memfs/d736d518-4450-4c4b-a10f-79093448d836.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJDTTF4R2xwSFIiLCJpYXQiOjE3NDUwMDMxODh9._m07kjjGwB0XU1WNx9L7I1aRqaO5aRm9_CYaIDvngCc
+#EXTINF:-1,MK_Mahar Movie
+http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 
+#EXTINF:-1,MK_CN Cartoon
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+
+#EXTINF:-1,MK_C
+http://146.19.169.194:8000/playlist.m3u8
+
+#EXTINF:-1,MK_MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1,MK_TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,MK_Family
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1,MK_Edu
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1,MK_5Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
+#EXTINF:-1,MK_Ch7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1,MK_5action Movie
+http://146.19.169.194:8000/play/a04c
+
+#EXTINF:-1,MK_Legend Xtra Movie
+http://146.19.169.194:8000/play/a05l
+
+#EXTINF:-1,MK_Great Action Movie
+http://146.19.169.194:8000/play/a04x
+
+#EXTINF:-1,MK_GOD Channel
+http://146.19.169.194:8000/play/a096
+
+#EXTINF:-1,MK_Travel
+http://146.19.169.194:8000/play/a076
+
+#EXTINF:-1,MK_Dmax
+http://146.19.169.194:8000/play/a0cr
 
 #EXTINF:-1,MK_Bein SD1
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/5011.ts
@@ -191,3 +232,126 @@ http://103.175.242.10:8080/sonyten3/index.m3u8
 
 #EXTINF:-1,MK_Sony Ten5
 http://103.175.242.10:8080/sonyten5/index.m3u8
+
+#EXTINF:-1,MK_Arena Sport1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10442.ts
+
+#EXTINF:-1,MK_Arena Sport2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10444.ts
+
+#EXTINF:-1,MK_Arena Sport3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10446.ts
+
+#EXTINF:-1,MK_Arena Sport4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10448.ts
+
+#EXTINF:-1,MK_Arena Sport5
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10450.ts
+
+#EXTINF:-1,MK_Arena Sport6
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10452.ts
+
+#EXTINF:-1,MK_Arena Sport7
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10454.ts
+
+#EXTINF:-1,MK_Arena Sport8
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10455.ts
+
+#EXTINF:-1,MK_Arena Sport9
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10456.ts
+
+#EXTINF:-1,MK_Arena Sport10
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10443.ts
+
+#EXTINF:-1,MK_Astro Sport1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6663.ts
+
+#EXTINF:-1,MK_Astro Sport2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6664.ts
+
+#EXTINF:-1,MK_Astro Sport3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6665.ts
+
+#EXTINF:-1,MK_Astro Sport4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6666.ts
+
+#EXTINF:-1,MK_VIP Skysport1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5044.ts
+
+#EXTINF:-1,MK_VIP Skysport2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5045.ts
+
+#EXTINF:-1,MK_VIP Skysport3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5046.ts
+
+#EXTINF:-1,MK_VIP Skysport4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5047.ts
+
+#EXTINF:-1,MK_VIP Skysport5
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5048.ts
+
+#EXTINF:-1,MK_VIP Skysport6
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5049.ts
+
+#EXTINF:-1,MK_VIP Skysport7
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5050.ts
+
+#EXTINF:-1,MK_VIP Skysport8
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5051.ts
+
+#EXTINF:-1,MK_VIP Skysport9
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5052.ts
+
+#EXTINF:-1,MK_Canel Extra 1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9841.ts
+
+#EXTINF:-1,MK_Canel Extra 2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9843.ts
+
+#EXTINF:-1,MK_Canel Extra 3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9845.ts
+
+#EXTINF:-1,MK_Canel Extra 4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9847.ts
+
+#EXTINF:-1,MK_Polsat Sport
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9811.ts
+
+#EXTINF:-1,MK_VIP_CANEL 1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9709.ts
+
+#EXTINF:-1,MK_VIP_CANEL 2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9710.ts
+
+#EXTINF:-1,MK_VIP_CANEL 3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9711.ts
+
+#EXTINF:-1,MK_VIP_CANEL 4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9712.ts
+
+#EXTINF:-1,MK_SPORT_TV+
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10921.ts
+
+#EXTINF:-1,MK_SPORT_TV1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10922.ts
+
+#EXTINF:-1,MK_SPORT_TV2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10924.ts
+
+#EXTINF:-1,MK_SPORT_TV3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10926.ts
+
+#EXTINF:-1,MK_SPORT_TV4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10928.ts
+
+#EXTINF:-1,MK_SPORT_TV5
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10930.ts
+
+#EXTINF:-1,MK_SPORT_TV6
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10932.ts
+
+#EXTINF:-1,MK_SPORT_S1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/3399.ts
+
+#EXTINF:-1,MK_SPORT_S2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/3397.ts
