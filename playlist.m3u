@@ -9,7 +9,16 @@ http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1,MK_C
-http://146.19.169.194:8000/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
+
+#EXTINF:-1,MK_Adventure Sport
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
+
+#EXTINF:-1,MK_BEK Sport
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1,MK_CBS Sport
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1,MK_MWD
 http://203.81.84.130/hls/mwd/index.m3u8
@@ -46,6 +55,9 @@ http://146.19.169.194:8000/play/a076
 
 #EXTINF:-1,MK_Dmax
 http://146.19.169.194:8000/play/a0cr
+
+#EXTINF:-1,MK_Bein.Esp
+https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 
 #EXTINF:-1,MK_Bein SD1
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/5011.ts
@@ -355,3 +367,66 @@ http://xu.port360.xyz:8080/metin-5/p3NHWHu/3399.ts
 
 #EXTINF:-1,MK_SPORT_S2
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/3397.ts
+
+==================================================
+
+
+#EXTINF:-1,****Don't Look Family****
+https://video1.tizam.cc/films/proniknovenie_v_princessu1988.mp4
+
+#EXTINF:-1,Blue Movie 2
+https://video1.tizam.cc/films/DoppelteLust1986.mp4
+
+#EXTINF:-1,Blue Movie 3
+https://video1.tizam.cc/films/SuperSuperBestia1978.mp4
+
+#EXTINF:-1,Blue Movie 4
+https://video1.tizam.cc/films/Casanova-2.mp4
+
+#EXTINF:-1,Blue Movie 5
+https://video1.tizam.cc/films/Friday-the-13th-1987.mp4
+
+#EXTINF:-1,Blue Movie 6
+https://video1.tizam.cc/films/IViziPrivatiDiMilly.mp4
+
+#EXTINF:-1,Blue Movie 7
+https://video1.tizam.cc/films/Otages-du-vice.mp4
+
+#EXTINF:-1,Blue Movie 8
+https://video1.tizam.cc/films/SexFlex.mp4
+
+#EXTINF:-1,Blue Movie 9
+https://video1.tizam.cc/films/CityWomen.mp4
+
+#EXTINF:-1,Blue Movie 10
+https://video1.tizam.cc/films/Les-Soirees-Dune-Epouse-Pervertie.mp4
+
+#EXTINF:-1,sex_11
+http://video1.tizam.cc/films/GirlzNtheHood.mp4
+
+#EXTINF:-1,sex_12
+http://video1.tizam.cc/films/Luana-troia-e-puttana.mp4
+
+#EXTINF:-1,sex_13
+http://video1.tizam.cc/films/Sexcapades.mp4
+
+#EXTINF:-1,sex_14
+http://video1.tizam.cc/films/Vue-Sur-Maison-Close.mp4
+
+#EXTINF:-1,sex_15
+http://video1.tizam.cc/films/KristinaBellanova5-AbsoluteBeginners.mp4
+
+#EXTINF:-1,sex_16
+http://video1.tizam.cc/films/SexWorldGirls.mp4
+
+#EXTINF:-1,sex_17
+http://video1.tizam.cc/films/Dr-Lust.mp4
+
+#EXTINF:-1,sex_18
+http://video2.51daao.com/btt1/2021/05/20210522/ppjVsfpT/index.m3u8
+
+#EXTINF:-1,sex_19
+http://video2.51daao.com/btt1/2021/05/20210522/xtyDcPcl/index.m3u8
+
+#EXTINF:-1,sex_20
+http://video2.51daao.com/btt1/2021/05/20210522/kLx2d55K/index.m3u8
