@@ -1,40 +1,771 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-PLAYLIST-TYPE:M3U8
-
+ 
 #EXTINF:-1,MK_Mahar Movie
 http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 
-#EXTINF:-1,MK_CN Cartoon
+#EXTINF:-1,MK_CN Cartoon 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49714
+
+#EXTINF:-1,MK_CN Cartoon 2
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-#EXTINF:-1,MK_C
-https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
+#EXTINF:-1,MK_CN Cartoon 3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/275478
 
-#EXTINF:-1,MK_Adventure Sport
-https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
+#EXTINF:-1,MK_CN Cartoon 4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/275477
 
-#EXTINF:-1,MK_BEK Sport
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1,MK_CN Cartoon 5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/295353
 
-#EXTINF:-1,MK_CBS Sport
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,MK_CN Cartoon 6
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/275476
 
+#EXTINF:-1,MK_CN Cartoon 7
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/275475
+
+#EXTINF:-1,MK_CN Cartoon 8
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/275474
+
+ #EXTINF:-1,MK_WWE
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/265815
+
+#EXTINF:-1,MK_DISCOVERY 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/150359
+
+#EXTINF:-1,MK_DISCOVERY 2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/364670
+ 
 #EXTINF:-1,MK_MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-
+ 
 #EXTINF:-1,MK_TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-
+ 
 #EXTINF:-1,MK_Family
 http://203.81.84.130/hls/mwd_family/index.m3u8
-
+ 
 #EXTINF:-1,MK_Edu
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 
-#EXTINF:-1,MK_5Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1,MK_HGTV 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/8258
 
+#EXTINF:-1,MK_HGTV 2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/364564
+
+#EXTINF:-1,NETFLIX ACTION
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326700
+
+#EXTINF:-1,NETFLIX COMEDY
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326701
+
+#EXTINF:-1,NETFLIX DRAMA
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326696
+
+#EXTINF:-1,NETFLIX HORROR
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326688
+
+#EXTINF:-1,NETFLIX KIDS
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326692
+
+#EXTINF:-1,NETFLIX DOC
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326694
+
+#EXTINF:-1,NETFLIX Top10
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326684
+
+#EXTINF:-1,NETFLIX Top11
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/326706
+
+#EXTINF:-1,NETFLIX Top12
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/31713
+
+#EXTINF:-1,NETFLIX Top13
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/14555
+
+#EXTINF:-1,NETFLIX Top14
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/623499
+
+#EXTINF:-1,NETFLIX Top15
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/149599
+ 
+#EXTINF:-1,MK_Canal Sport SD1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151081
+ 
+#EXTINF:-1,MK_Canal Sport SD2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151082
+ 
+#EXTINF:-1,MK_Canal Sport SD3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151083
+ 
+#EXTINF:-1,MK_Canal Sport SD4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151084
+
+#EXTINF:-1,MK_Canal Sport SD5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151085
+ 
+#EXTINF:-1,MK_Arena Sport1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/90113
+ 
+#EXTINF:-1,MK_Arena Sport2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/138677
+ 
+#EXTINF:-1,MK_Arena Sport3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/138678
+ 
+#EXTINF:-1,MK_Arena Sport4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/138814
+ 
+#EXTINF:-1,MK_Arena Sport5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303403
+ 
+#EXTINF:-1,MK_Arena Sport9
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100423
+ 
+#EXTINF:-1,MK_Arena Sport10
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100410
+ 
+#EXTINF:-1,MK_Astro Sport1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100413
+ 
+#EXTINF:-1,MK_Astro Sport2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100421
+ 
+#EXTINF:-1,MK_Astro Sport3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100420
+ 
+#EXTINF:-1,MK_Astro Sport4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100419
+ 
+#EXTINF:-1,MK_Canel Extra 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100418
+ 
+#EXTINF:-1,MK_Canel Extra 2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100417
+ 
+#EXTINF:-1,MK_Canel Extra 3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100416
+ 
+#EXTINF:-1,MK_Canel Extra 4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1100415
+ 
+#EXTINF:-1,MK_SPORT_TV+
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492952
+ 
+#EXTINF:-1,MK_SPORT_TV1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492949
+ 
+#EXTINF:-1,MK_SPORT_TV2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492950
+ 
+#EXTINF:-1,MK_SPORT_TV3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492951
+ 
+#EXTINF:-1,MK_SPORT_TV4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492953
+ 
+#EXTINF:-1,MK_SPORT_TV5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492954
+ 
+#EXTINF:-1,MK_SPORT_TV6
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492955
+ 
+#EXTINF:-1,MK_SPORT_TV7
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492960
+ 
+#EXTINF:-1,MK_SPORT_TV8
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492957
+ 
+#EXTINF:-1,MK_SPORT_TV9
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492958
+ 
+#EXTINF:-1,MK_SPORT_TV10
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492959
+ 
+#EXTINF:-1,MK_SPORT_TV11
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/4929645722547
+ 
+#EXTINF:-1,MK_SPORT_TV12
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492961
+ 
+#EXTINF:-1,MK_SPORT_TV13
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492962
+ 
+#EXTINF:-1,MK_SPORT_TV14
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492968
+ 
+#EXTINF:-1,MK_SPORT_TV15
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492965
+ 
+#EXTINF:-1,MK_SPORT_TV16
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492966
+ 
+#EXTINF:-1,MK_SPORT_TV17
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492967
+ 
+#EXTINF:-1,MK_SPORT_TV18
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492972
+ 
+#EXTINF:-1,MK_SPORT_TV19
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492969
+ 
+#EXTINF:-1,MK_SPORT_TV20
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/492970
+ 
+#EXTINF:-1,MK_SPORT_TV21
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585037
+ 
+#EXTINF:-1,MK_SPORT_TV22
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585038
+ 
+#EXTINF:-1,MK_SPORT_TV23
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585039
+ 
+#EXTINF:-1,MK_SPORT_TV24
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585043
+ 
+#EXTINF:-1,MK_SPORT_TV25
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585044
+
+#EXTINF:-1,MK_SPORT_TV26
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585045
+
+#EXTINF:-1,MK_SPORT_TV27
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585046
+
+#EXTINF:-1,MK_SPORT_TV28
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585392
+
+#EXTINF:-1,MK_SPORT_TV29
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585393
+
+#EXTINF:-1,MK_SPORT_TV30
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1585394
+
+#EXTINF:-1,MK_SPORT_TV31
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1597497
+
+#EXTINF:-1,MK_SPORT_TV32
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1597570
+
+#EXTINF:-1,MK_SPORT_TV33
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1597571
+
+#EXTINF:-1,MK_SPORT_TV34
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276734
+
+#EXTINF:-1,MK_SPORT_TV35
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276735
+
+#EXTINF:-1,MK_SPORT_TV36
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1235009
+
+#EXTINF:-1,MK_SPORT_TV37
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/514196
+
+#EXTINF:-1,MK_SPORT_TV38
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/514197
+
+#EXTINF:-1,MK_SPORT_TV39
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/514198
+
+#EXTINF:-1,MK_SPORT_TV40
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/514199
+
+#EXTINF:-1,MK_SPORT_TV41
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308702
+
+#EXTINF:-1,MK_SPORT_TV42
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308703
+
+#EXTINF:-1,Canal+Sport 3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308704
+ 
+#EXTINF:-1,Canal+Action Ouest
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308705
+
+#EXTINF:-1,CANAL+LIVE 1 HD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308706
+
+#EXTINF:-1,TF1 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308707
+
+#EXTINF:-1,FRANCE 2 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1308708
+
+#EXTINF:-1,FRANCE 3 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1513587
+
+#EXTINF:-1,FRANCE 4 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/282583
+
+#EXTINF:-1,FRANCE 5 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/282582
+
+#EXTINF:-1,M6 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/282581
+
+#EXTINF:-1,ARTE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276727
+
+#EXTINF:-1,RTS UN SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276741
+
+#EXTINF:-1,RTS DEUX SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/280822
+
+#EXTINF:-1,CANAL KIDS SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/280823
+
+#EXTINF:-1,CANAL+ SPORT 360 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/280824
+
+#EXTINF:-1,CANAL SERIES SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/280825
+
+#EXTINF:-1,CANAL+ SPORT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/280826
+
+#EXTINF:-1,CANAL+ FOOT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276728
+
+#EXTINF:-1,OCS PULP SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276730
+
+#EXTINF:-1,OCS GEANTS SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276734
+
+#EXTINF:-1,OCS MAX SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276735
+
+#EXTINF:-1,TCM CINEMA SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276742
+
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276737
+
+#EXTINF:-1,ACTION SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276738
+
+#EXTINF:-1,COMEDIE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276739
+
+#EXTINF:-1,CRIME DISTRICT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1080194
+
+#EXTINF:-1,13EME RUE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1080193
+
+#EXTINF:-1,WARNER TV SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/276740
+
+#EXTINF:-1,SYFY SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49725
+
+#EXTINF:-1,MTV FRANCE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264732
+
+#EXTINF:-1,ENTERTAINMENT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/290346
+
+#EXTINF:-1,MCM SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/290347
+
+#EXTINF:-1,MANGA SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/290348
+
+#EXTINF:-1,RTL9 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/290349
+
+#EXTINF:-1,BET SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264732
+
+#EXTINF:-1,W9 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264733
+
+#EXTINF:-1,TMC SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/403740
+
+#EXTINF:-1,TFX SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/10005
+
+#EXTINF:-1,NRJ12 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331234
+
+#EXTINF:-1,CSTAR SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331235
+
+#EXTINF:-1,TF1 SERIES-FILMS SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331236
+
+#EXTINF:-1,6TER SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331237
+
+#EXTINF:-1,RMC STORY SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331238
+
+#EXTINF:-1,CHERIE 25 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331239
+
+#EXTINF:-1,GAME ONE 1 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331240
+
+#EXTINF:-1,GAME ONE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331241
+
+#EXTINF:-1,PLANETE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1331242
+
+#EXTINF:-1,PLANETE CI SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/4861
+
+#EXTINF:-1,PLANETE A E SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510908
+
+#EXTINF:-1,NAT GEO SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510909
+
+#EXTINF:-1,NAT GEO WILD SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510910
+
+#EXTINF:-1,DISCOVERY SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510911
+
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510912
+
+#EXTINF:-1,DISCOVERY FAMILLY SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510913
+
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510914
+
+#EXTINF:-1,DISCOVERY FAMILLY SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510915
+
+#EXTINF:-1,DISCOVERY INVESTIGATION SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/510916
+
+#EXTINF:-1,MY CUISINE TV SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303821
+
+#EXTINF:-1,USHUAIA TV SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303819
+
+#EXTINF:-1,HISTOIRE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303820
+
+#EXTINF:-1,SCIENCES ET VIE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303822
+
+#EXTINF:-1,ANIMAUX SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303824
+
+#EXTINF:-1,TREK SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303826
+
+#EXTINF:-1,CHASSE ET PECHE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303828
+
+#EXTINF:-1,RMC DECOUVERTE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303829
+
+#EXTINF:-1,RMC SPORT 1 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303830
+
+#EXTINF:-1,RMC SPORT 2 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303831
+
+#EXTINF:-1,RMC SPORT 3 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303832
+
+#EXTINF:-1,RMC SPORT 4 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303834
+
+#EXTINF:-1,EUROSPORT 1 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303835
+
+#EXTINF:-1,EUROSPORT 2 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/303836
+
+#EXTINF:-1,EXTREME SPORTS SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/691670
+
+#EXTINF:-1,GOLF CHANNEL SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/691671
+
+#EXTINF:-1,INFOSPORT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1109394
+
+#EXTINF:-1,EQUIPE 21 SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1451791
+
+#EXTINF:-1,MOTOR SPORT SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/282655
+
+#EXTINF:-1,EQUIDIA LIVE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/282656
+
+#EXTINF:-1,FIGHT NETWORK
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/54240
+
+#EXTINF:-1,WWE2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/255935
+
+#EXTINF:-1,BFM PARIS SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/613714
+
+#EXTINF:-1,BFM MARSEILLE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860556
+
+#EXTINF:-1,BFM LYON SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860555
+
+#EXTINF:-1,BFM GRAND LILLE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860550
+
+#EXTINF:-1,BFM LITTORAL SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860551
+
+#EXTINF:-1,BFM DICI ALPES DU SUD SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860552
+
+#EXTINF:-1,BFM DICI HAUTE PROVENCE SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/860553
+
+#EXTINF:-1,BFM CÔTE D'AZUR SD
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/1597497
+
+#EXTINF:-1,CANAL SPORT 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151081
+
+#EXTINF:-1,CANAL SPORT 2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151082
+
+#EXTINF:-1,CANAL SPORT 3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151083
+
+#EXTINF:-1,CANAL SPORT 4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151084
+
+#EXTINF:-1,CANAL SPORT 5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151085
+
+#EXTINF:-1,Movie SD 1
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264769
+
+#EXTINF:-1,Movie SD 2
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264760
+
+#EXTINF:-1,Movie SD 3
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264824
+
+#EXTINF:-1,Movie SD 4
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264823
+
+#EXTINF:-1,Movie SD 5
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264822
+
+#EXTINF:-1,Movie SD 6
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264821
+
+#EXTINF:-1,Movie SD 7
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264865
+
+#EXTINF:-1,Movie SD 8
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264820
+
+#EXTINF:-1,Movie SD 9
+http://1gotv.org:8080/4668241086179314/4668241086179314/36668
+
+#EXTINF:-1,Movie SD 10
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264864
+
+#EXTINF:-1,Movie SD 11
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264863
+
+#EXTINF:-1,Movie SD 12
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264862
+
+#EXTINF:-1,Movie SD 13
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264861
+
+#EXTINF:-1,Movie SD 14
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264860
+
+#EXTINF:-1,Movie SD 15
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264859
+
+#EXTINF:-1,Movie SD 16
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264858
+
+#EXTINF:-1,Movie SD 17
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264857
+
+#EXTINF:-1,Movie SD 18
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264856
+
+#EXTINF:-1,Movie SD 19
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264855
+
+#EXTINF:-1,Movie SD 20
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264819
+
+#EXTINF:-1,Movie SD 21
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264853
+
+#EXTINF:-1,Movie SD 22
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264852
+
+#EXTINF:-1,Movie SD 23
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264851
+
+#EXTINF:-1,Movie SD 24
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264850
+
+#EXTINF:-1,Movie SD 25
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264849
+
+#EXTINF:-1,Movie SD 26
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264848
+
+#EXTINF:-1,Movie SD 27
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264847
+
+#EXTINF:-1,Movie SD 28
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264846
+
+#EXTINF:-1,Movie SD 29
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264845
+
+#EXTINF:-1,Movie SD 30
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264818
+
+#EXTINF:-1,Movie SD 31
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264844
+
+#EXTINF:-1,Movie SD 32
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264843
+
+#EXTINF:-1,Movie SD 33
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264842
+
+#EXTINF:-1,Movie SD 34
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264841
+
+#EXTINF:-1,Movie SD 35
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264840
+
+#EXTINF:-1,Movie SD 36
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264839
+
+#EXTINF:-1,Movie SD 37
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264838
+
+#EXTINF:-1,Movie SD 38
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264837
+
+#EXTINF:-1,Movie SD 39
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264836
+
+#EXTINF:-1,Movie SD 40
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264835
+
+#EXTINF:-1,Movie SD 41
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264817
+
+#EXTINF:-1,Movie SD 42
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264834
+
+#EXTINF:-1,Movie SD 43
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264833
+
+#EXTINF:-1,Movie SD 44
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264832
+
+#EXTINF:-1,Movie SD 45
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264831
+
+#EXTINF:-1,Movie SD 46
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264830
+
+#EXTINF:-1,Movie SD 47
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264829
+
+#EXTINF:-1,Movie SD 48
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264828
+
+#EXTINF:-1,Movie SD 49
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/264826
+
+#EXTINF:-1,Movie SD 50
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/151733
+
+#EXTINF:-1,Movie SD 51
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/150323
+
+#EXTINF:-1,Movie SD 52
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/150324
+
+#EXTINF:-1,Movie SD 53
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/150325
+
+#EXTINF:-1,Movie SD 54
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49703
+
+#EXTINF:-1,Movie SD 55
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49702
+
+#EXTINF:-1,Movie SD 56
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49701
+
+#EXTINF:-1,Movie SD 57
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49710
+
+#EXTINF:-1,Movie SD 58
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/12601
+
+#EXTINF:-1,Movie SD 59
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49712
+
+#EXTINF:-1,Movie SD 60
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49689
+
+#EXTINF:-1,Movie SD 61
+http://royalibox.com:80/53935030659097078217/jbeb94pv7dn3vn5ug7bx/49688
+
+==================================================
+ 
+#EXTINF:-1,Gold G7 Movie 1
+http://media1.mycinema.asia/media/films/The.Gorge.2025/The.Gorge.2025.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 2
+http://media1.mycinema.asia/media/films/Gladiator.II.2024/Gladiator.II.2024.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 3
+https://media1.mycinema.asia/media/films/Fangs.Fury.2024/Fangs.Fury.2024.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 4
+https://media1.mycinema.asia/media/films/Venom_The_Last_Dance_2024/Venom_The_Last_Dance_2024.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 5
+https://media1.mycinema.asia/media/films/Apocalypse.Z.The.Beginning.of.the.End.2024/Apocalypse.Z.The.Beginning.of.the.End.2024.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 6
+https://media1.mycinema.asia/media/series/House.of.the.Dragon.S02/House_of_the_Dragon_S02EP01/House_of_the_Dragon_S02EP01.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 7
+https://media1.mycinema.asia/media/films/Ultraman.Rising.2024.360p/Ultraman.Rising.2024.360p.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 8
+https://media1.mycinema.asia/media/films/The.Strangers.Chapter.1.2024.360p/The.Strangers.Chapter.1.2024.360p.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 9
+https://media1.mycinema.asia/media/films/The.Roundup.Punishment.2024.360p/The.Roundup.Punishment.2024.360p.m3u8
+ 
+#EXTINF:-1,Gold G7 Movie 10
+https://media1.mycinema.asia/media/films/Exhuma_2024/Exhuma_2024.m3u8
 #EXTINF:-1,MK_Ch7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
